@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* PMEC-style light theme */
+    --color-primary: 255 255 255;
+    --color-surface: 245 245 245; /* #f5f5f5 used for list backgrounds */
+    --color-blue: 51 122 183; /* #337ab7 for links/accents */
+    --color-text: 39 39 42; /* #27272a */
+    --color-text-muted: 102 102 102; /* #666666 */
+    --color-border: 204 204 204; /* #cccccc */
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-white text-gray-900 font-body;
+    overflow-x: hidden;
+  }
+
+  /* Selection */
+  ::selection {
+    background: rgba(51, 122, 183, 0.2);
+    color: #27272a;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold mb-8 text-[#337ab7];
+  }
+
+  .pmec-card {
+    @apply bg-white border border-gray-200 shadow-sm p-6 rounded-lg;
+  }
+
+  /* Stylish List mimicking PMEC Elementor elementskit-stylish-list */
+  .ekit-stylish-list {
+    @apply list-none p-0 m-0 space-y-4;
+  }
+
+  .ekit-stylish-list-content-wrapper {
+    @apply flex items-start gap-3 bg-[#f5f5f5] p-4 rounded-md border border-transparent hover:border-[#337ab7]/30 transition-colors;
+  }
+
+  .ekit-stylish-list-content-icon {
+    @apply flex-shrink-0 mt-1;
+    color: #337ab7;
+  }
+
+  .ekit-stylish-list-content-text {
+    @apply flex flex-col;
+  }
+
+  .ekit-stylish-list-content-title {
+    @apply font-bold text-gray-900 text-base mb-1;
+  }
+
+  .ekit-stylish-list-content-description {
+    @apply text-gray-600 text-sm;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

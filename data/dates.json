@@ -1,0 +1,8 @@
+[
+  { "id": "date-1", "title": "Call for Papers Opens", "date": "2026-09-01", "description": "Submission portal opens for all tracks.", "icon": "Upload", "status": "upcoming" },
+  { "id": "date-2", "title": "Paper Submission Deadline", "date": "2026-11-01", "description": "Submit your original research papers through the online portal.", "icon": "FileText", "status": "upcoming" },
+  { "id": "date-3", "title": "Acceptance Notification", "date": "2026-12-20", "description": "Authors will be notified of acceptance or revision decisions.", "icon": "CheckCircle", "status": "upcoming" },
+  { "id": "date-4", "title": "Revised Paper Submission", "date": "2027-01-14", "description": "Final camera-ready revised papers due.", "icon": "Upload", "status": "upcoming" },
+  { "id": "date-5", "title": "Registration Deadline", "date": "2027-02-13", "description": "Last date for conference registration.", "icon": "UserPlus", "status": "upcoming" },
+  { "id": "date-6", "title": "Conference Dates", "date": "2027-03-12", "description": "Two days of keynotes, paper presentations, workshops, and networking.", "icon": "Calendar", "status": "upcoming" }
+]

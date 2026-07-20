@@ -1,0 +1,1256 @@
+bjbj
+Conference Proceedings Proposal Form
+Please send the completed form to:
+Prof Lakhmi JAIN
+E: jainlakhmi@gmail.com
+Book Series: Artificial Intelligence-enhanced Software and Systems Engineering (AI-SSE)
+ HYPERLINK "https://www.springer.com/series/16891" 
+https://www.springer.com/series/16891
+The following questions are designed to help us get a clear picture of your book proposal and to provide us with information about the readership which will enable us to develop an effective marketing and promotion strategy. Please complete the form as precisely as you can.
+Full or working title of the book:
+AI-Enabled Sustainable Systems
+Subtitle:
+Advances in Intelligent Software, Smart Technologies, and Sustainable Governance
+Name and address of each editor as they should appear on the book cover (i.e. only author(s) or volume editor(s), not the series editors or contributing authors). Please underline surnames.
+Name + Title(s)
+Address (work + 
+Email + URL
+Dr. Srinivas Sethi
+Professor and Head, Department of Computer Science Engineering and Applications,Indira Gandhi Institute of Technology, Sarang, Dhenkanal, Odisha, India
+ HYPERLINK "mailto:igitsethi@gmail.com" 
+igitsethi@gmail.com
+ HYPERLINK "https://igitsarang.ac.in/facultypage/cs/150995012" 
+https://igitsarang.ac.in/facultypage/cs/150995012
+Dr. Sanjay Kumar 
+Kuanar
+Associate Professor and Dean, School of Engineering and Technology, Birla Global University, Bhubaneswar, Odisha, India
+ HYPERLINK "mailto:sk.kuanar@bgu.ac.in" 
+sk.kuanar@bgu.ac.in
+ HYPERLINK "https://bgu.ac.in/manage_faculty/dr-sanjay-kumar-kuanar/" 
+https://bgu.ac.in/manage_faculty/dr-sanjay-kumar-kuanar/
+Dr. Deepak K. Tosh
+Associate Professor, Department of Computer Science,  University of Texas at El Paso 500 W. University Avenue, El Paso, TX 79968-0518
+ HYPERLINK "mailto:dktosh@utep.edu" 
+dktosh@utep.edu
+ HYPERLINK "https://www.utep.edu/aaii/people/bio/deepak-tosh.html" 
+https://www.utep.edu/aaii/people/bio/deepak-tosh.html
+Please attach a curriculum vitae (including relevant publications) of each editor 
+BOOK FORMAT
+What will be the approximate final length of your book (approx. 450 words = 1 page)? 750
+The estimated total size of the conference proceedings is approximately 750 pages. The estimate is based on an average of 450 words per page in the Springer conference proceedings format.
+The projected page count has been calculated from the expected number of accepted papers as follows:
+Paper Category
+Expected Number of Papers
+Estimated Length per Paper
+Estimated Total Pages
+Full Papers
+15+ pages (average 15 pages)
+600 pages
+Short Papers
+11 pages (average 7.5 pages)
+150 pages
+Total
+Approximately 750 pages
+Accordingly, the conference is expected to publish approximately 60 accepted papers, comprising 40 full papers and 20 short papers, resulting in an estimated proceedings volume of 750 pages. This estimate may vary slightly depending on the final formatting, figures, tables, references, and publisher typesetting requirements.
+When do you anticipate being able to submit the first complete draft? 15th April 2027
+CONFERENCE PLAN
+Please indicate a conference webpage address and/or a Call for papers.
+Please indicate WHERE and WHEN the conference will take place
+PLACE: School of Engineering and Technology, Birla Global University,   Bhubaneswar, Odisha, India
+WHEN:  12th -13th  MARCH 2027
+Please list the names of Conference Organizers and Boards
+            COMMITTEE Members
+Patron
+Prof. Kulbhusan Balooni, Vice Chancellor, Birla Global University, Bhubaneswar
+General Chair
+Dr. Bibhudatta Sahoo, Professor, Computer Science and Engineering, NIT Rourkela, Odisha, India
+Program Chair
+Dr. Srinivas Sethi, Professor, IGIT Sarang
+Dr. Deepak K. Tosh, Associate Professor, Department of Computer Science, University of Texas at El Paso 500 W. University Avenue, El Paso, TX 79968-0518
+Dr. Sanjay Kumar Kuanar, Dean, School of Applied Science and Engineering & Technology, Birla Global University, Bhubaneswar
+Conveners
+Dr. Ramesh Kumar Sahoo, School of Engineering and Technology, BGU, Bhubaneswar
+Dr. Indrajeet Kumar, School of Engineering and Technology, BGU Bhubaneswar
+Dr. Bandita Sahu, School of Applied Science & School of Engineering & Technology, BGU, Bhubaneswar
+Tutorial Chair
+Dr. Alok Kumar Pani, School of Engineering & Technology, BGU, Bhubaneswar
+Dr. Manaswini Jena, School of Engineering and Technology, BGU Bhubaneswar
+Dr. Arun Kumar, NIT Rourkela
+Publicity Chairs
+Prof. Archana Chaudhary, School of Management, BGU Bhubaneswar
+Prof. Ashima Rout, IGIT Sarang
+Dr. Rajendra Prasad Nayak, GCE, Kalahandi
+Dr. Satvik Vats, Madan Mohan Malaviya University of Technology, Gorakhpur
+Dr. Piyush Gupta, School of Management, BGU Bhubaneswar
+Dr. Brojo Kishore Mishra, Professor, NIST Berhampur
+Dr. Raghvendra Kumar, Professor, GIET University Gunupur
+Dr. Suvendu Ku Pratihari, School of Management, BGU Bhubaneswar
+Dr. Gyanaranjan Mishra, School of Communication, BGU Bhubaneswar
+Finance Chairs
+Dr. Bichitrananda Behera, School of Engineering & Technology, BGU, Bhubaneswar
+Dr. Parimal Kumar, School of Management, BGU Bhubaneswar
+Dr. Nandita Bhattacharjee, School of Commerce, BGU, Bhubaneswar
+Prof. Prithivi Raj, School of Law, BGU, Bhubaneswar
+Hospitality Chairs
+Dr. Manaswini Jena, School of Engineering & Technology, BGU Bhubaneswar
+Dr. Pruthiranjan Dwibedi, School of Commerce, BGU Bhubaneswar
+Dr. Mehul Agarwal, School of Communication, BGU Bhubaneswar
+Dr. Saswati Tripathy, School of Management, BGU Bhubaneswar
+Mr. Swagat Dash, School of Law, BGU Bhubaneswar
+Logistic Chairs
+Dr. Snigdha Mohapatra, School of Management, BGU Bhubaneswar
+Dr. Aswini Kumar Bhuyan, School of Commerce, BGU Bhubaneswar
+Ms. Lopamudra Nayak, School of Commerce, BGU Bhubaneswar
+Dr. Bichitrananda Behera, School of Engineering & Technology, BGU, Bhubaneswar
+Mr. Bhabanisankar Nayak, School of Engineering & Technology, BGU, Bhubaneswar
+Mr. Abhinash Ray, School of Engineering & Technology, BGU, Bhubaneswar
+Accommodation Chairs
+Dr. Alok Kumar Pani, School of Engineering & Technology, BGU, Bhubaneswar
+Dr. Purnendu Kumar Patra, School of Management, BGU Bhubaneswar
+Dr. Ricky Mohanty, School of Management, BGU, Bhubaneswar
+Dr. Barsha Nibedita, School of Economics, BGU, Bhubaneswar
+Dr. Vivek  Mishra. School of Management, BGU, Bhubaneswar
+Organizing Committee
+Prof. Parameswar Nayak, Dean, School of Management, BGU Bhubaneswar
+Prof. Pradipta Kumar Sanyal, Dean, School of Commerce, BGU Bhubaneswar
+Prof. Sukanta Kumar Nanda, Dean, School of Law, BGU Bhubaneswar
+Dr. Shiv Shankar Das, Dean, Birla School of Communication, BGU Bhubaneswar
+Dr. Ajit Kumar Dash, Dean, School of Economics, BGU Bhubaneswar
+Prof. Anubha Ray, Dean, Alumni & Student Affairs, BGU Bhubaneswar
+Prof. Archana Choudhary, Dean, Research & Development, BGU Bhubaneswar
+Dr. Satyakama Mishra, Dean, Outreach & International Affairs, BGU Bhubaneswar
+Dr. Manas Kumar Pal, Controller of Examination, BGU Bhubaneswar
+Dr. Alok Kumar Pani, School of Engineering & Technology, BGU, Bhubaneswar
+Dr. Bichitrananda Behera, School of Engineering and Technology, BGU, Bhubaneswar
+Dr. Manaswini Jena, School of Engineering and Technology, BGU Bhubaneswar
+Dr. Manidatta Ray, School of Management, BGU Bhubaneswar
+Dr. Mitashree Tripathy, School of Law, BGU Bhubaneswar
+Dr. Radha Krishna Mishra, School of Commerce, BGU Bhubaneswar
+Technical Program Committee
+Prof. Gheorghita (George) Ghinea,Computer Science, Brunel University
+Prof. Kumar Padmanabh, EBTIC (a research lab of British Telecom)
+Prof. Deepak Tosh, Computer Science, University of Texas at El Paso
+Prof. Haesik Kim, VTT Technical Research Centre, Finland
+Prof. Soroj Meher, ISI, Bangalore, India
+Prof. Manas Ranjan Patra, NIST University, Berhampur, India
+Prof. Siba Kumar Udgata,University of Hyderabad, India
+Prof. O B V Ramanaiah, JNTU Hyderabad, India
+Prof. G. Suvarna Kumar,MVGRCE, Vijayanagaram, India
+Prof. G. SandhyaMVGRCE, Vijayanagaram, India
+Prof. R HemalathaUniversity College of Engineering, Osmania University, India
+Prof. Amit Kumar Mishra, University of Capetown , South Africa
+Prof. R. ThangarajanKongu Engineering College, Tamilnadu, India
+Prof. Birendra BiswalGayatri Vidya Parishad College of Engineering, Vishakhapatnam, India
+Prof. Somanath Tripathy, IIT Patna, India
+Prof. A. K. Turuk,NIT Rourkela, India
+Prof. D. P. Mohapatra,NIT, Rourkela, India
+Prof. P. M. Khilar,NIT, Rourkela, India
+Prof. P G Sapna,CIT, Coimbatore, India
+Prof. R K Dash,NIC, Mizoram, India
+Prof. B K Tripathy,VIT, Vellore, India
+Prof. Moumita Patra, IIT, Guwahati, India
+Prof. Ram Kumar Dhurkari, IIM, Sirmaur, Himachal Pradesh, India
+Prof. Chitta Ranja Hota, BITS Pilani,Hyderabad, India
+Prof. A. Kavitha, JNTU, Hyderabad, India
+Prof. Subasish Mohapatra, CET, Bhubaneswar, India
+Prof. Sanjaya Kumar Panda, NIT, Warangal, India
+Prof. S. Mini,NIT, Goa, India
+Prof. S. Nagender Kumar,University of Hyderabad, India
+Prof. Lalit Garg,University of Malta, Malta
+Prof. Lalitha Krishna,Kongu Engineering College, Tamilnadu, India
+Prof. C. Poongodi,Kongu Engineering College, Tamilnadu, India
+Prof. Sumanth Yenduri,Kennesaw University, USA
+Prof. Shaik Shakeel Ahamad,Majmaah University, Saudi Arabia
+Prof. K. Srujan Raju,CMR Technical Campus, Hyderabad, India
+Prof. R. Hemalatha, University College of Engineering, Osmania University, Hyderabad, India
+Prof. P. Sakthivel,Anna University, India
+Prof. Pavan Kumar Mishra,NIT, Raipur, India
+Prof. Tapan Kumar Gandhi,Dept. of Electrical Engineering, IIT, Delhi, India
+Prof. Annappa B.,NIT, Surathkal, India
+Prof. Prafulla Kumar Behera,Utkal University, Bhubaneswar, Odisa, India
+Prof. Nekuri Naveen,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Ch. Venkaiah,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Rajendra Lal,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Dillip Singh Sisodia,Department of Computer Science and Engineering,NIT, Raipur, India
+Prof. Pradeep Singh,Department of Computer Science and Engineering, NIT, Raipur, India
+Prof. Jay Bagga,Ball State University, USA
+Prof. Sumagna Patnaik,JB Institute of Engineering and Technology, Hyderabad, India
+Prof. Ajit K Sahoo,University of Hyderabad, India
+Prof. Atluri Rahul,Neurolus Systems, Hyderabad, India
+Prof. Samrat L Sabat,Center for Advanced Studies in Electronic Science and Technology (CASEST), University of Hyderabad, India
+Prof. Nihar Satapathy,Sambalpur University, India
+Prof. Susil Kumar Mohanty,Computer Science and Enginering, IIT, Patna, India
+Prof. Kagita Venkat,NIT, Warangal, India
+Prof. Sanjay Kuanar,Birla Global University, Bhubaneswar, India
+Prof. Bhabendra Biswal,College of Engineering, Bhubaneswar, India
+Prof. Padmalaya Nayak,GR Institute of Engineering and Technology, Hyderabad, India
+Prof. Bhibudendu Pati,R.D Womens University, Bhubaneswar, India
+Prof. Chabi Rani Panigrahi,R.D Womens University, Bhubaneswar, India
+Prof. Rajesh Verma,Infosys Ltd, Hyderabad, India
+Prof. Arun Avinash Chauhan,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Khusbu Pahwa,Delhi Technological University, New Delhi, India
+Prof. Soumen Roy,DRDL, Hyderabad, India
+Prof. Satyajit Acharya,Tech Mahindra, Hyderabad, India
+Prof. Subhrakanta Panda,BITs Pilani, Hyderabad, India
+Prof. Vineet P Nair,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Subash Yadav,Department of Computer Science,Central University of Jharkhand, Ranchi, India
+Prof. Layak Ali,Central University Karnataka, Gulbarga, India
+Prof. Deepak Kumar,NIT, Meghalaya, India
+Prof. Bunil Balabantaray,NIT, Meghalaya, India
+Prof. Sumanta pyne,NIT, rourkela, India
+Prof. Asis Tripathy,VIT, Vellore, India
+Prof. Mousumi Saha,NIT, Durgapur, India
+Prof. Abhijit Sharma,NIT, Durgapur, India
+Prof. Mayukh Sarkar,MNNIT, Allahabad, India
+Prof. Oishila Bandyopadhyay,IIIT, Kalayani, India
+Prof. Subrat kumar Mohanty,IIIT, Bhubaneswar, India
+Prof. Ramesh Chandra Mishra,IIIT, Manipur, India
+Prof. Hirak Maity,Kolaghat Engineering College, India
+Prof. Sandeep kumar panda,ICFAI, Hyderabad, India
+Prof. Ashim Rout,IGIT, Sarang, India
+Dr. Tarun Kumar Sharma, Shobhit University, 
+Prof. Srinivas Sethi,IGIT, Sarang, India
+Prof. S. N. Mishra,IGIT, Sarang, India
+Dr. Piyush Gupta, School of Management, BGU, Bhubaneswar
+Dr. Sruthi Rajan, School of Communication, BGU, Bhubaneswar
+Dr. Mitashree Tripathy, School of Law, BGU, Bhubaneswar
+Prof. Sanjaya Patra,IGIT, Sarang, India
+Prof. Biswanath Sethi,IGIT, Sarang, India
+Prof. Niroj Pani,IGIT, Sarang, India
+Prof. Dillip Kumar Swain,IGIT, Sarang, India
+Prof. B. P. Panigrahy,IGIT, Sarang, India
+Prof. Rabindra Behera,IGIT, Sarang, India
+Prof. L. N. Tripathy,OUTR, Bhubaneswar, India
+Prof. B. B. Choudhary,IGIT, Sarang, India
+Prof. Dhiren Behera,IGIT, Sarang, India
+Prof. Anand Gupta,IGIT, Sarang, India
+Prof. Ayaskanta Swain,NIT, Rourkela, India
+Prof. Debasis Mohapatra,PMEC, Berhampur, India
+Prof. S. K.Tripathy,IGIT, Sarang, India
+Prof. Devi Acharya,VIT, vellore, India
+Prof. Sourav Kumar Bhoi,PMEC, Berhampur, India
+Prof. Kalyan Kumar Jena,PMEC, Berhampur, India
+Prof. Alok Ranjan Prusty,Skill Development, Delhi, India
+Prof. Babita Majhi,GGU, Chatisgarh, India
+Prof. Subhrashu Das,GCE, Keunjhar, India
+Prof. Manoj Kumar Sahu, Associate Professor, CUPGS, BPUT, Odisha, Rourkela
+Prof. Puspalata Pujahari,GGU, Chatisgarh, India
+Prof. Tirimula Rao,JNTU, Kakinada, India
+Prof. Kshirsagar Sahoo,VIT, AP, India
+Prof. Niranjan Panigrahi,PMEC, Berhampur, India
+Prof. Trilochan Rout,PMEC, Berhampur, India
+Prof. P K Panigrahy,GIET, Gunupur, India
+Prof. Mihir Kumar Sutar,VSSUT, Burla, India
+Prof. Gopal Behera,GCE, Kalahandi, India
+Prof. Rajendra Prasad Nayak,GCE, Kalahandi, India
+Prof. Kaliprasan Sethi,GCE, Kalahandi, India
+Prof. Debabrata Dansana,Rajendra University, Balangir, India
+Prof. SGK Patro,Woxsen University, India
+Prof. Saroj Kumar Panigrahi,VIT, AP, India
+Prof. Manoj Kumar Muni,IGIT, Sarang, India
+Prof. Jitendra Kumar Rout,NIT, Raipur, India
+Prof. Rashmi Ranjan Sahoo,PMEC, Berhampur, India
+Prof. Suryalok Dash,PMEC, Berhampur, India
+Prof. Saroj Padhan,PMEC, Berhampur, India
+Prof. Suvendra Kumar Jayasingh,IMIT, Cuttack, India
+Dr. Arun Kumar, NIT Rourkela
+Is any society involved in the organization of this conference? No
+Please indicate the Conference History (is this one the first edition of the conference? If not, please indicate previous edition of this conference, the number of participants attending them, the conference webpages and, if available, please cite previous proceedings publications related to those
+This is the first edition of the conference.
+The First International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027) is envisioned as a leading global event for researchers, academicians, industry experts, policy makers, innovators, and practitioners to reflect on the new developments in the fields of Artificial Intelligence, smart systems, sustainability, and responsible governance. The conference will be dedicated to stimulating interdisciplinary research conversations on real-world challenges and to supporting sustainable technological innovations for a smarter society at a time when intelligent systems and data-driven decision-making have shaped all fields of society. The conference aims to inspire high-quality research papers on AI and Big Data, smart systems, sustainable technologies, digital governance, ethical AI, cybersecurity, intelligent automation, and multidisciplinary applications across society. ICSSG-AI 2027 is expected to host a large number of original research papers, case studies, industry practices, and innovative solutions from participants from all over the world from academia, research institutions, industry, and government organisations. The theme of the conference is to present an intellectually stimulating forum for the exchange of knowledge, international collaboration, networking and dissemination of publication oriented research. 
+How many participants do you expect? 250-350
+The proposed 1st International Conference at Birla Global University (BGU), Bhubaneswar, Odisha, India, is anticipated to become an important global academic forum for coming together of researchers, academicians, industry professionals, policy makers, innovators, and research scholars from various fields. With the university's reputation for hosting high-quality academic conferences at the national and international level growing, the conference is expected to draw 250-350 participants, both in person and online. Numerous well-known universities, research institutes, industries, and innovation centres from three continents, Asia, Europe, and North America will be in attendance at the conference, and there are opportunities for participation from other continents as well, Africa and Australia. Countries like India, Bangladesh, Nepal, Singapore, Malaysia, UAE, United Kingdom, Germany, Slovenia, France, USA, Canada, South Africa, Kenya, Nigeria and Australia will be represented. The presence of strong international representation will help the conference have a strong global visibility, interdisciplinary research collaboration and academic impact. The conference will showcase keynote speeches, technical paper presentations, panel discussions, industry interaction, publication-oriented research dissemination, and an exchange of ideas and networking. The modern infrastructure, experienced academic leadership, a developed research ecosystem, and Birla Global University's past experience in organising international conferences make it a good host for an international Conference relevant to the global context and in line with Springer Nature standards. The conference is anticipated to make a meaningful contribution to advancing international research collaborations, innovative dialogue, and high-quality international research publications.  
+Only proceedings financed by attendance fees and not by direct paper publication payment will be considered for publication. Do you agree with and/or have any comments on that? 
+Yes, we agree
+We expect that at least one of the authors for each articles accepted in the book will attend the conference. If the author of an accepted papers does not register to the conference, his/her paper should not be included in the book. Do you agree with and/or have any comments on that? Yes, we agree
+REVIEW PLAN
+Please describe the review process as detailed as possible. Our minimum requirements are listed below:
+At least two independent reviewers will need to review and approve a paper
+A maximum of 4 papers should be assigned to a single reviewer
+All the review reports should be submitted to Springer as soon as they will become available (after the notification of acceptance).
+ Double-Blind Peer Review Process
+All manuscripts submitted to the International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027) will undergo a rigorous Double-Blind Peer Review process to ensure the highest standards of academic quality, originality, ethical integrity, and scientific merit. The identities of both authors and reviewers will remain anonymous throughout the review process to guarantee fairness, impartiality, and unbiased evaluation.
+1. Initial Editorial Screening
+Upon submission, each manuscript will be screened by the Technical Program Committee (TPC) to verify that it:
+Falls within the scope of the conference themes.
+Complies with the prescribed Springer conference paper formatting guidelines.
+Meets submission requirements regarding length, structure, and completeness.
+Is anonymized in accordance with the double-blind review policy.
+Passes plagiarism and AI writing screening using Turnitin similarity detection software. manuscripts exhibiting unacceptable levels of similarity or ethical concerns will be rejected without entering the peer-review process.
+2. Reviewer Assignment
+After the initial screening, every eligible manuscript will be sent out to at least two independent experts, with relevant experience in the area of research, to provide a review. The Technical Program Committee and an international panel of subject experts will be used to select reviewers.
+To maintain review quality and consistency:
+At least two independent reviewers will review each manuscript before editorial decision.
+Reviewers will not receive more than four (4) manuscripts for review during the review process, thus allowing reviewers enough time to review manuscripts thoroughly and in good quality. 
+Potential conflicts of interest will be thoroughly reviewed before reviewers are assigned. Reviewers that may have personal, professional, institutional or collaborative relationships with the authors will not be assigned to evaluate the related manuscript.
+3. Review Criteria
+All manuscripts will be assessed by reviewers independently on the following academic and technical criteria (but not limited to):
+Originality and novelty of the research.
+Technical correctness and scientific quality.
+Relevance to the conference themes.
+Methodological rigor and soundness.
+Innovation and practical significance.
+Quality of experimental design, validation, and analysis.
+Clarity, organization, and quality of presentation.
+Adequacy of references and related work.
+Overall contribution to existing knowledge and future research.
+Reviewers will make detailed comments and suggestions for improvement and give a recommendation (Accept, Accept with Minor Revision, Accept with Major Revision, or Reject). 
+4. Editorial Decision
+All reviewers' reports will be considered by the Technical Program Chairs prior to the decision. If the reviewers' recommendations are very different, an extra independent reviewer may be requested or the manuscript may be re-evaluated by the editorial staff to make sure that the decision is fair and balanced. For conditionally accepted papers, authors will be asked to consider all the reviewers' comments and submit a revised manuscript with a letter that clarifies how the comments have been addressed.
+Acceptance Criteria
+All manuscripts that are accepted after successfully meeting the ICSSG-AI 2027 academic, technical and ethical standards and receive positive comments from the reviewers assigned to them will be scheduled for oral presentation at ICSSG-AI 2027 and will be considered for publication after oral presentation from any one of the authors in the ICSSG-AI 2027 conference proceedings published by Springer Nature upon acceptance, subject to Springer's quality requirements.
+6. Submission of Review Reports to Springer
+The conference organizing committee will maintain complete documentation of the peer-review process. All reviewer reports, editorial decisions, reviewer assignments, and related review records will be compiled and submitted to Springer immediately after the notification of acceptance and as soon as they become available, in accordance with Springer's Conference Proceedings publication requirements.
+7. Review Integrity and Confidentiality
+All reviewers will be required to:
+Maintain strict confidentiality regarding the manuscripts under review.
+Evaluate submissions objectively and solely on their academic merit.
+Declare any conflicts of interest prior to accepting review assignments.
+Refrain from using unpublished information obtained through the review process for personal or professional advantage.
+The ICSSG-AI 2027 Organizing Committee is committed to maintaining a transparent, ethical, and high-quality peer-review system that conforms to internationally accepted scholarly publishing standards and the publication policies of Springer Nature.
+Please specify the detailed review time plan (submission deadline, notification of acceptance, submission deadline for revised papers)
+Tentative Submission of Paper Deadline: 
+Call for Papers open: 01.09.2026 
+Call for Papers Close:  01.11.2026
+Tentative Notification of Acceptance: 20.12.2026
+Tentative Submission of Revised Paper Deadline: 14.01.2027 
+Tentative Registration Deadline: 13.02.2027
+Conference Dates:  12th and 13th March 2027
+Please list names, affiliation (and webpage, if available) of the reviewers who will be effectively involved in the review process who already gave their availability to review the papers.
+         Names and affiliations of reviewers
+Prof. Haesik Kim, VTT Technical Research Centre, Finland
+Prof. Soroj Meher, ISI, Bangalore, India
+Prof. O B V Ramanaiah,JNTU Hyderabad, India
+Prof. G. Suvarna Kumar, MVGRCE, Vijayanagaram, India
+Prof. G. Sandhya, MVGRCE, Vijayanagaram, India
+Prof. R Hemalatha, University College of Engineering, Osmania University, India
+Prof. Amit Kumar Mishra,University of Capetown , South Africa
+Prof. R. ThangarajanKongu Engineering College, Tamilnadu, India
+Prof. Birendra BiswalGayatri Vidya Parishad College of Engineering, Vishakhapatnam, India
+Prof. Somanath Tripathy,IIT Patna, India
+Prof. A. K. Turuk,NIT Rourkela, India
+Prof. B. D. Sahoo,NIT, Rourkela, India
+Prof. D. P. Mohapatra,NIT, Rourkela, India
+Prof. P. M. Khilar,NIT, Rourkela, India
+Prof. P G Sapna,CIT, Coimbatore, India
+Prof. R K Dash,NIC, Mizoram, India
+Prof. B K Tripathy,VIT, Vellore, India
+Prof. Moumita Patra,IIT, Guwahati, India
+Prof. S. N. Das,GIET University, Gunupur, India
+Prof. Ram Kumar DhurkariIIM, Sirmaur, Himachal Pradesh, India
+Prof. Chitta Ranja Hota,BITS Pilani,Hyderabad, India
+Prof. A. Kavitha,JNTU, Hyderabad, India
+Prof. Subasish Mohapatra,CET, Bhubaneswar, India
+Prof. Sanjaya Kumar Panda,NIT, Warangal, India
+Prof. S. Mini,NIT, Goa, India
+Prof. S. Nagender Kumar,University of Hyderabad, India
+Prof. Lalit Garg,University of Malta, Malta
+Prof. Lalitha Krishna,Kongu Engineering College, Tamilnadu, India
+Prof. C. Poongodi,Kongu Engineering College, Tamilnadu, India
+Prof. Sumanth Yenduri,Kennesaw University, USA
+Prof. Shaik Shakeel Ahamad,Majmaah University, Saudi Arabia
+Prof. K. Srujan Raju,CMR Technical Campus, Hyderabad, India
+Prof. R. Hemalatha, University College of Engineering, Osmania University, Hyderabad, India
+Prof. P. Sakthivel,Anna University, India
+Prof. Pavan Kumar Mishra,NIT, Raipur, India
+Prof. Tapan Kumar Gandhi,Dept. of Electrical Engineering, IIT, Delhi, India
+Prof. Annappa B.,NIT, Surathkal, India
+Prof. Prafulla Kumar Behera,Utkal University, Bhubaneswar, Odisa, India
+Prof. Nekuri Naveen,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Ch. Venkaiah,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Rajendra Lal,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Dillip Singh Sisodia,Department of Computer Science and Engineering,NIT, Raipur, India
+Prof. Pradeep Singh,Department of Computer Science and Engineering, NIT, Raipur, India
+Prof. Jay Bagga,Ball State University, USA
+Prof. Sumagna Patnaik,JB Institute of Engineering and Technology, Hyderabad, India
+Prof. Ajit K Sahoo,University of Hyderabad, India
+Prof. Atluri Rahul,Neurolus Systems, Hyderabad, India
+Prof. Samrat L Sabat,Center for Advanced Studies in Electronic Science and Technology (CASEST), University of Hyderabad, India
+Prof. Nihar Satapathy,Sambalpur University, India
+Prof. Susil Kumar Mohanty,Computer Science and Enginering, IIT, Patna, India
+Prof. Kagita Venkat,NIT, Warangal, India
+Prof. Sanjay Kuanar,Birla Global University, Bhubaneswar, India
+Prof. Bhabendra Biswal,College of Engineering, Bhubaneswar, India
+Prof. Padmalaya Nayak,GR Institute of Engineering and Technology, Hyderabad, India
+Prof. Bhibudendu Pati,R.D Womens University, Bhubaneswar, India
+Prof. Chabi Rani Panigrahi,R.D Womens University, Bhubaneswar, India
+Prof. Rajesh Verma,Infosys Ltd, Hyderabad, India
+Prof. Arun Avinash Chauhan,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Khusbu Pahwa,Delhi Technological University, New Delhi, India
+Prof. Soumen Roy,DRDL, Hyderabad, India
+Prof. Satyajit Acharya,Tech Mahindra, Hyderabad, India
+Prof. Subhrakanta Panda,BITs Pilani, Hyderabad, India
+Prof. Vineet P Nair,School of Computer and Information Sciences, University of Hyderabad, India
+Prof. Subash Yadav,Department of Computer Science,Central University of Jharkhand, Ranchi, India
+Prof. Layak Ali,Central University Karnataka, Gulbarga, India
+Prof. Deepak Kumar,NIT, Meghalaya, India
+Prof. Bunil Balabantaray,NIT, Meghalaya, India
+Prof. Sumanta pyne,NIT, rourkela, India
+Prof. Asis Tripathy,VIT, Vellore, India
+Prof. Mousumi Saha,NIT, Durgapur, India
+Prof. Abhijit Sharma,NIT, Durgapur, India
+Prof. Mayukh Sarkar,MNNIT, Allahabad, India
+Prof. Oishila Bandyopadhyay,IIIT, Kalayani, India
+Prof. Subrat kumar Mohanty,IIIT, Bhubaneswar, India
+Prof. Ramesh Chandra Mishra,IIIT, Manipur, India
+Prof. Hirak Maity,Kolaghat Engineering College, India
+Prof. Sandeep kumar panda,ICFAI, Hyderabad, India
+Prof. Ashim Rout,IGIT, Sarang, India
+Prof. Srinivas Sethi,IGIT, Sarang, India
+Prof. S. N. Mishra,IGIT, Sarang, India
+Dr. Indrajeet Kumar, School of Engineering and Technology, BGU Bhubaneswar
+Dr. Piyush Gupta, School of Management, BGU, Bhubaneswar
+Dr. Sruthi Rajan, School of Communication, BGU, Bhubaneswar
+Dr. Mitashree Tripathy, School of Law, BGU, Bhubaneswar
+Prof. Sanjaya Patra,IGIT, Sarang, India
+Prof. Biswanath Sethi,IGIT, Sarang, India
+Prof. Niroj Pani,IGIT, Sarang, India
+Prof. Dillip Kumar Swain,IGIT, Sarang, India
+Prof. B. P. Panigrahy,IGIT, Sarang, India
+Prof. Rabindra Behera,IGIT, Sarang, India
+Prof. L. N. Tripathy,OUTR, Bhubaneswar, India
+Prof. B. B. Choudhary,IGIT, Sarang, India
+Prof. Dhiren Behera,IGIT, Sarang, India
+Prof. Anand Gupta,IGIT, Sarang, India
+Prof. Ayaskanta Swain,NIT, Rourkela, India
+Prof. Debasis Mohapatra,PMEC, Berhampur, India
+Prof. S. K.Tripathy,IGIT, Sarang, India
+Prof. Devi Acharya,VIT, vellore, India
+Prof. Sourav Kumar Bhoi,PMEC, Berhampur, India
+Prof. Kalyan Kumar Jena,PMEC, Berhampur, India
+Prof. Alok Ranjan Prusty,Skill Development, Delhi, India
+Prof. Babita Majhi,GGU, Chatisgarh, India
+Prof. Subhrashu Das,GCE, Keunjhar, India
+Prof. Puspalata Pujahari,GGU, Chatisgarh, India
+Prof. Tirimula Rao,JNTU, Kakinada, India
+Prof. Kshirsagar Sahoo,VIT, AP, India
+Prof. Niranjan Panigrahi,PMEC, Berhampur, India
+Prof. Trilochan Rout,PMEC, Berhampur, India
+Prof. P K Panigrahy,GIET, Gunupur, India
+Prof. Mihir Kumar Sutar,VSSUT, Burla, India
+Prof. Gopal Behera,GCE, Kalahandi, India
+Prof. Rajendra Prasad Nayak,GCE, Kalahandi, India
+Prof. Kaliprasan Sethi,GCE, Kalahandi, India
+Prof. Debabrata Dansana,Rajendra University, Balangir, India
+Prof. SGK Patro,Woxsen University, India
+Prof. Saroj Kumar Panigrahi,VIT, AP, India
+Prof. Manoj Kumar Muni,IGIT, Sarang, India
+Prof. Jitendra Kumar Rout,NIT, Raipur, India
+Please indicate the (expected) acceptance rate
+SPECIAL INSTRUCTIONS
+Do you use any plagiarism and SciGen detection system? 
+Please be aware that a few people may try to do unprofessional and/or unethical things, e.g. submit fake (automatically generated) papers, submit two or more very similar papers (self-plagiarism, dual publication), present the work of others as it were their own and without proper acknowledgement, use falsified/fabricated data. A careful review process together with a system to detect plagiarism should make you able to detect those attempts. We will be able to train you in its use. If you have any doubts about any submitted papers, please do not hesitate to contact us.
+Yes. All submissions are screened using Turnitin prior to entering the peer-review process. The screening includes both similarity checking and AI-generated writing detection as part of the conference's research integrity and quality assurance procedures. Manuscripts exhibiting similarity above the conference threshold or AI-generated content exceeding the permissible limit will be desk-rejected and will not be forwarded for peer review. Specifically, submissions with similarity greater than 40% or AI-generated writing exceeding 30% will be considered non-compliant with the conference's submission and publication ethics requirements. This policy is implemented to ensure the originality, authenticity, and scholarly integrity of all papers considered for presentation and possible publication in the Springer Nature Conference Proceedings.
+ABOUT YOUR BOOK
+If you have not already provided us with a brief synopsis (approx. 3500 characters), which can also be used as the back cover text to the reader and provisional table of contents please could you do so when you return this form.  Additionally could you provide us with a list of those features that you feel sets your book apart from others in the field? Please list them in order of importance. If this is not the first edition of your book, please state the improvements over the last edition.
+Synopsis
+Artificial Intelligence is reshaping how software-intensive systems are designed, engineered, and governed. From climate change to cybersecurity, from resource scarcity to digital transformation, AI is being applied at a scale that was simply not possible before. As it embeds itself more deeply in critical infrastructure, industries, and public services, the demand for systems that are trustworthy, ethical, resilient, and sustainable has never been greater.
+The book compiles peer-reviewed contributions from researchers, practitioners, industry professionals, and policymakers across computer science, engineering, environmental science, law, and social science. Together, they examine how intelligent systems can be designed, deployed, and governed in ways that are technically sound, environmentally responsible, and genuinely beneficial to society.
+The book addresses emerging topics such as machine learning, deep learning, explainable and trustworthy AI, Generative AI, intelligent decision support, big data analytics, AI-enhanced software engineering, cloud-edge computing, cyber-physical systems, digital twins, the Internet of Things, robotics, autonomous systems and smart infrastructure. Application areas include renewable energy, precision agriculture, healthcare, education, transportation, finance, and public administration.
+Beyond the technology, the book tackles ethical considerations, algorithmic fairness, privacy, accountability, regulatory compliance, and sustainable governance frameworks 
+ making the case that responsible AI governance is as important as the engineering itself.
+Distinguishing Features of the Book (in Order of Importance)
+Engineering-Centric Approach to AI Systems: This book is very relevant to Artificial Intelligence-enabled Software and Systems Engineering (AI-SSE) and is about the engineering of AI-enabled software-intensive systems, rather than the algorithms or applications themselves.
+Coverage of Emerging AI Technologies and Intelligent Systems: The book covers recent developments in generative AI, large language models (LLMs), explainable AI, machine learning, intelligent decision support, Internet of Things, cyber-physical systems, digital twins, cloud-edge systems, autonomous systems, robotics and smart infrastructure 
+ all the latest developments in AI research and practice. 
+Integration of Technology with Governance and Public Policy: A unique aspect of the book is the seamless integration of engineering innovation, with AI governance, regulatory and legal frameworks, digital governance, risk management, and policy, which helps readers access both the technological and societal aspects of intelligent systems. 
+Human-Centric, Trustworthy, and Responsible AI: The book emphasizes explainability, transparency, fairness, accountability, privacy, security, and human oversight, highlighting the technical and societal needs for creating responsible AI-enabled systems. 
+Alignment with the Sustainable Development Goals (SDGs): The contributions illustrate how AI-powered systems can contribute to sustainable development, by enabling smart and efficient use of resources, renewable energy, resilient infrastructure, environmental monitoring, inclusive digital transformation, and responsible innovation.
+Interdisciplinary Research Across Diverse Domains: The book includes contributions from computer science, engineering, environmental science, management, law, public policy, economics and social sciences, thereby encouraging interdisciplinary research and collaboration to solve real-world problems. 
+Application-Driven Research with Industrial and Societal Impact: The book provides numerous industrial case studies and examples of domain applications in healthcare, manufacturing, transportation, agriculture, education, finance, commerce, and public administration to show how AI solutions can have measurable impact for industry and society through practical implementations.
+A Forward-Looking Resource for Next-Generation Intelligent Systems: 
+It brings together a variety of theoretical, engineering, governance and application insights and methods to serve as a comprehensive reference for researchers, software engineers, systems architects, practitioners, educators and policymakers to develop future intelligent, resilient, ethical, and sustainable systems.
+BOOK ORGANISATION
+Please provide us with a preliminary description of the structure of your book (e.g Table of Contents) We usually require a topical organization in different parts e.g according to the main conference topics.
+Preliminary Structure of the Book (Table of Contents)
+Book Title: AI-Enabled Sustainable Systems
+The book will consist of peer-reviewed papers presented in the International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027). The proceedings will be structured into themed sections, based on the main tracks of the conference, to offer the reader a coherent and interdisciplinary point of view on AI-enabled sustainable systems.
+Front Matter
+Preface
+Foreword (if applicable)
+About the Editors
+Organizing Committee
+Technical Program Committee
+List of Reviewers
+Part I: AI and Big Data 
+ Intelligent Systems and Data-Driven Innovation
+Accepted papers related to:
+Machine Learning, Deep Learning, and Neural Networks
+Explainable, Interpretable, and Trustworthy AI
+Generative AI and Intelligent Decision Support
+Big Data Analytics, Data Mining, and Visualization
+Data Governance, Privacy, Security, and Responsible AI
+AI Applications in Healthcare, Finance, Education, and Governance
+Part II: Smart Systems 
+ Intelligent Technologies for a Smart Future
+Accepted papers related to:
+Smart Cities and Intelligent Infrastructure
+Internet of Things (IoT) and Sensor Networks
+Cyber-Physical Systems and Embedded Intelligence
+Cloud, Edge, and Fog Computing
+Digital Twins, Robotics, and Autonomous Systems
+Human-in-the-Loop and Adaptive Intelligent Systems
+Part III: AI for Sustainable Development
+Accepted papers related to:
+AI for Climate Change and Environmental Monitoring
+Renewable Energy and Smart Energy Systems
+Green Computing and Energy-Aware AI
+Sustainable Manufacturing and Circular Economy
+Resource Optimization and Sustainability Assessment
+AI for Achieving the Sustainable Development Goals (SDGs)
+Part IV: Governance, Ethics, and Responsible AI
+Accepted papers related to:
+Ethical and Human-Centric AI
+AI Governance and Regulatory Frameworks
+Algorithmic Transparency, Fairness, and Accountability
+Privacy, Cybersecurity, and Risk Management
+Digital Governance, Public Policy, and Legal Issues
+Responsible Innovation and Trustworthy AI Systems
+Part V: Multidisciplinary Applications of AI-Enabled Sustainable Systems
+Accepted papers related to:
+AI in Business, Commerce, and Digital Transformation
+Intelligent Systems in Law, Justice, and Public Administration
+AI in Healthcare, Education, and Smart Society
+Human-Centric Design and User Experience
+Technology, Ethics, and Society
+Interdisciplinary Case Studies and Industrial Applications
+Back Matter
+Author Index
+Subject Index
+Note: The final Table of Contents will be prepared after the completion of the peer-review process. Accepted papers will be grouped under the above thematic parts according to their primary research contributions, ensuring a coherent organization that reflects the scope of the conference and the objectives of the Artificial Intelligence-enhanced Software and Systems Engineering (AI-SSE) series.
+Keywords/Conference Topics
+Artificial Intelligence (AI) 
+AI-Enhanced Software and Systems Engineering 
+Intelligent Systems 
+Data-Driven Innovation 
+Machine Learning and Deep Learning 
+Generative AI and Large Language Models 
+Explainable, Trustworthy, and Human-Centric AI 
+Intelligent Decision Support Systems 
+Big Data Analytics 
+Internet of Things (IoT) 
+Cyber-Physical Systems 
+Digital Twins 
+Cloud, Edge, and Fog Computing 
+Robotics and Autonomous Systems 
+Smart Cities and Smart Infrastructure 
+Sustainable Computing 
+Green AI 
+Renewable Energy Systems 
+Environmental Monitoring 
+Sustainable Governance 
+AI Governance and Responsible AI 
+Data Privacy and Cybersecurity 
+Digital Transformation 
+Interdisciplinary AI Applications 
+Sustainable Development Goals (SDGs)
+Please list any keywords associated with your book. 
+Artificial Intelligence (AI)
+AI-Enabled Sustainable Systems
+AI-Enhanced Software and Systems Engineering
+Intelligent Systems
+Smart Systems
+Machine Learning
+Generative AI
+Explainable and Trustworthy AI
+Big Data Analytics
+Intelligent Decision Support Systems
+Internet of Things (IoT)
+Cyber-Physical Systems 
+Digital Twins
+Cloud-Edge Computing
+Smart Infrastructure
+Sustainable Computing
+Green AI
+Sustainable Development
+Human-Centric AI
+Responsible AI
+AI Governance
+Digital Governance
+Data Privacy and Cybersecurity
+Digital Transformation
+Sustainable Development Goals (SDGs).
+Competitive literature
+What other works have been published on this subject (please give author, title, publisher, year of publication and price where possible)?
+The themes of the proposed First International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027) are areas that have experienced significant growth in the last ten years, especially in Artificial Intelligence (AI), Smart Systems, Internet of Things (IoT), Sustainable Computing, Intelligent Governance, Data Analytics, Cyber-Physical Systems, or Digital Transformation. This interest in research in such interdisciplinary fields is reflected in the large number of quality conference proceedings and edited volumes published by Springer Nature and other major academic publishers.
+Representative publications and conference proceedings include:
+Editors/Authors
+Title
+Publisher
+Year
+S. C. Satapathy et al.
+ICT Systems and Sustainability (ICT4SD) (Lecture Notes in Networks and Systems)
+Springer Nature
+Annual Series (2016
+Present)
+S. Smys, V. E. Balas, R. Bestak et al.
+International Conference on Sustainable Computing and Intelligent Systems (SCIS)
+Springer Nature
+Annual Series
+D. P. Acharjya et al.
+Sustainable Development through Machine Learning, AI and IoT
+Springer Nature
+2022
+K. Arai
+Advances in Information and Communication
+Springer Nature
+Annual Series
+R. Silhavy (Ed.)
+Artificial Intelligence and Algorithms in Intelligent Systems
+Springer Nature
+Ongoing Series
+All these publications collectively reflect the immense international interest in research papers in AI, intelligent systems, sustainability, and digital transformation. They also highlight a growing research community across computer science, engineering, public policy, management, environmental sciences, health, law and social sciences. 
+Most of the currently available conferences are, however, only concerned with one particular field, like Artificial Intelligence, IoT, Smart Computing, or Sustainable Engineering. Fewer conferences are offering a single interdisciplinary forum for the integrated platform of Artificial Intelligence, Smart Systems, Sustainable Development, Governance, Ethics, Public Policy, Digital Society and Responsible Innovation. ICSSG-AI 2027 aims to meet this new demand by offering a platform for researchers, academicians, industry experts, policymakers, and practitioners to share insights on technological developments and their societal impacts. This conference is expected to provide a high-quality stream of original research, interdisciplinary research collaborations, industry innovations, and policy oriented research, with a particular emphasis on sustainable and responsible AI-enabled governance, complementing the existing collection of Springer research from conferences. 
+MARKET
+Please outline the primary and secondary markets for your book. You should include academic and industrial areas and wherever possible please indicate the level the book is aimed at (e.g.  undergraduate, postgraduates, researchers etc.), the academic discipline involved, the titles of courses at which it could be taught, and specific job titles, functions and responsibilities. Please be as detailed as possible.
+Primary market
+The primary market for AI-Enabled Sustainable Systems comprises researchers, faculty members, postdoctoral researchers, doctoral scholars, postgraduate students, and research professionals working in Artificial Intelligence (AI), Software and Systems Engineering, Intelligent Systems, Data Science, Smart Computing, Sustainable Computing, and Digital Governance. As a peer-reviewed conference proceedings volume, the book is intended primarily as an advanced research reference presenting the latest international research, emerging methodologies, engineering innovations, and multidisciplinary applications in AI-enabled sustainable systems.
+The volume will be particularly valuable for researchers and graduate students in the following academic disciplines:
+Artificial Intelligence and Machine Learning
+Computer Science and Engineering
+Software and Systems Engineering
+Information Technology
+Data Science and Big Data Analytics
+Internet of Things (IoT) and Cyber-Physical Systems
+Cloud, Edge, and Distributed Computing
+Robotics and Intelligent Automation
+Sustainable and Green Computing
+Smart Cities and Intelligent Infrastructure
+Environmental Engineering and Sustainable Development
+Cybersecurity and Data Privacy
+Digital Governance and E-Governance
+Engineering Management
+Public Policy, Technology Governance, and AI Ethics
+The book is primarily aimed at postgraduate (M.Tech., M.E., M.Sc., MBA
+Technology Management), doctoral (Ph.D.), and postdoctoral programmes and will serve as a valuable reference for universities, research institutions, centres of excellence, and innovation laboratories.
+The book will also be a recommended reference and supplementary resource for advanced courses such as:
+Artificial Intelligence and Machine Learning
+AI-Enhanced Software and Systems Engineering
+Intelligent Systems
+Big Data Analytics
+Internet of Things and Cyber-Physical Systems
+Cloud and Edge Computing
+Smart Systems and Smart Cities
+Sustainable Computing and Green AI
+Explainable, Trustworthy, and Responsible AI
+AI Governance, Digital Governance, and AI Ethics
+Data Privacy and Cybersecurity
+Digital Transformation and Industry 5.0
+In addition, the proceedings will be an important acquisition for university libraries, institutional libraries, digital libraries, research centres, and centres of excellence supporting programmes in Artificial Intelligence, Software Engineering, Sustainable Computing, Smart Systems, and Digital Governance.
+Secondary market
+The secondary market comprises industry professionals, technology leaders, consultants, policy makers, government bodies, standards bodies, and technology innovators who are engaged in research and development, deployment, governance, and management of AI technologies. 
+The book will be applicable to various industries such as information technology, software engineering, manufacturing, health, financial services, telecommunications, energy, transportation, agriculture, environmental monitoring, smart cities, public administration, defence and digital governance. This book will be useful to professionals such as:
+AI Engineers
+Machine Learning Engineers
+Software Engineers and Software Architects
+Systems Engineers
+Data Scientists and Data Engineers
+Cloud Solutions Architects
+IoT and Cyber-Physical Systems Engineers
+Robotics and Automation Engineers
+AI Product Managers
+Research Scientists and R&D Engineers
+Digital Transformation Consultants
+Sustainability Consultants
+Cybersecurity Specialists
+Smart City Planners
+Innovation Managers
+Chief Technology Officers (CTOs)
+Chief Information Officers (CIOs)
+AI Governance and Compliance Specialists
+Data Protection Officers
+Technology Policy Advisors
+E-Governance Specialists
+Public Policy Analysts
+The proceedings will also be valuable to professionals working in multinational technology companies, startups, national laboratories, government research organizations, regulatory authorities, and international organizations engaged in responsible AI, sustainable digital transformation, intelligent infrastructure, and technology governance.
+The book presents rigorously peer-reviewed contributions from the International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027) and reflects the current state of the art and the ongoing trends in the research field of AI-based software and systems engineering. It serves as an up-to-date international benchmark for researchers, practitioners, educators, technology leaders and policy-makers who are looking for innovative, reliable and sustainable AI solutions to solve today's scientific, industrial and societal problems.
+Other comments or suggestions for promotional activities
+Conferences/Workshops etc. (place/date/contact name)
+Journals for reviews
+Professional societies
+Names and Addresses of persons you know of willing to help promote and sell the book (e.g. through conferences, lectures or reviewing your book)
+Additional Information 
+Many thanks for taking the time to complete this questionnaire. Your detailed responses will be very helpful in our assessment of the potential market for your proposal and will enable us to reach a decision regarding publication that much sooner.
+vhvhvhvhvhVE9
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+raLaL
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+kdq!
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+kd-"
+kdk#
+ubQI
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+h&2#
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+hTTi
+hTTi
+h&2#
+hTTi
+hTTi
+hTTi
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+gd+T
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+gd+T
+gd+T
+gd+T
+gd+T
+m[mRF
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+|l\l\l\l\l\l
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+h]Sh
+hF:h
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+ugWA1
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+gd 3\
+h 3\
+hTTi
+hTTi
+hTTi
+hTTi
+h 3\
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+gd 3\
+hTTi
+h 3\
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+h 3\
+hTTi
+hTTi
+h 3\
+hTTi
+kdM%
+kd9'
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+hTTi
+JFIF
+XICC_PROFILE
+HLino
+mntrRGB XYZ 
+acspMSFT
+IEC sRGB
+-HP  
+cprt
+3desc
+lwtpt
+bkpt
+rXYZ
+gXYZ
+bXYZ
+dmnd
+pdmdd
+vued
+view
+$lumi
+meas
+$tech
+rTRC
+gTRC
+bTRC
+text
+Copyright (c) 1998 Hewlett-Packard Company
+desc
+sRGB IEC61966-2.1
+sRGB IEC61966-2.1
+XYZ 
+XYZ 
+XYZ 
+XYZ 
+XYZ 
+desc
+IEC http://www.iec.ch
+IEC http://www.iec.ch
+desc
+.IEC 61966-2.1 Default RGB colour space - sRGB
+.IEC 61966-2.1 Default RGB colour space - sRGB
+desc
+,Reference Viewing Condition in IEC61966-2.1
+,Reference Viewing Condition in IEC61966-2.1
+view
+XYZ 
+meas
+sig 
+CRT curv
+ A l 
+!H!u!
+"'"U"
+#8#f#
+$M$|$
+%8%h%
+&'&W&
+'I'z'
+(?(q(
+)8)k)
+*5*h*
++6+i+
+,9,n,
+-A-v-
+/$/Z/
+050l0
+2*2c2
+4+4e4
+676r6
+7$7`7
+:6:t:
+;-;k;
+<'<e<
+="=a=
+> >`>
+?!?a?
+@#@d@
+A)AjA
+B0BrB
+C:C}C
+F"FgF
+G5G{G
+J7J}J
+L*LrL
+N%NnN
+P'PqP
+R1R|R
+U(UuU
+X/X}X
+]']x]
+Adobe
+$*' 
+ ')%%%%%).*++++*./45554/;;;;;;;;;;;;;;;;;;;;;
+"2(!(2;2222;;;;;;;;;;;;;;;;;@@@@@;@@@@@@@@@@@@@@@@@@@@@
+$3br
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+QQUa
+W;x=*
+4QE 
+QE0'kn
+2E0/
+?J}g
+QqXu
+QHek
+KU.e
+G$BJ
+H[oZ
+`UZ(
+tQEH
+b+QE
+;0,QUM
+.QQ[
+LBQE
+QEE<
+3Tjki6
+.0=h@R
+/^j`1M
+HLJPqIE04#}
+s.>Q
+*ZdC
+QHN(
+G(r)
+.hQM
+QE!8
+9N)4
+TrH\
+S$a:S
+TQEX
+'JKy
+N)k=
+TQE 
+fCWQ
+?0SL
+PqW!
+IERV
+xTU-
+y5Ji
+h`XD
+?Ju6^
+LD4QSC
+OJ`F
+UZ)X
+d5yWo
+@="/
+OTf}
+UDL(
+T_h_Z>
+h_Z,
+T_h_Z>
+?ZeX
+_goJ>
+_goJ>
+_goJ>
+S[FS9
+:~5R
+:~5R
+:~5R
+IHDR
+sRGB
+gAMA
+ cHRM
+PLTE
+   !!!"""###$$$%%%&&&'''((()))***+++,,,---...///000111222333444555666777888999:::;;;<<<===>>>???@@@AAABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMMNNNOOOPPPQQQRRRSSSTTTUUUVVVWWWXXXYYYZZZ[[[\\\]]]^^^___```aaabbbcccdddeeefffggghhhiiijjjkkklllmmmnnnooopppqqqrrrssstttuuuvvvwwwxxxyyyzzz{{{|||}}}~~~
+pHYs
+tIME
+tEXtDescription
+tEXtSoftware
+Adobe Photoshop 7.0
+nIDATx^
+eMBe
+7TD*R
+\Mi 
+D=Ds
+%AdENYZ
+c5/#
+l{?n
+~.|/
+%UhW_:
+$MIqE
+x!*q-
+J[1`]
+5I'Z~
+@)7\
+uj(6
+V *i
+(H;hZ
+~TTY
+to>E(J|
++Bt%T;
+GS)Ev
+Wj/ 
+#7o7
+&-;;;+
+6+~'
+,Bmb
+8E(m
+KA_~
+Wvp9-!
+QDm=4
+u9!&fT
+7g96
+)#{f
+$z66
+H)t&
+y.(sY
+u.~o 
+gXJ[+
+`Ro0
+rulq
+Q'F?
++0s4
+*^'L
+\oc5
+<En>
+^'j&
+G0{q
+4-Dv.
+X&u-
+7reZ.f'X
+qR]!;
+6**3
+<)0,
+Yf>,
+3~9x
+{=aG~
+f D\
+}hrp
+El_hM
+qu!O
+u}OF
+6O|Oep7
+fb+`^!
+WGpX
+,erk 
+'n[;M
+"::=
+Q|;gq/
+Xn!y
+g)2O
+y^~~~
+?+xe
+HoWv8r
+W&"H
+^EZ^
+hc. 
+Zt"Mt
+eNcOc
+"4n?
+@D);
+zI`pY
+#7(g
+S))6@
+IEND
+[Content_Types].xml
+_rels/.rels
+theme/theme/themeManager.xml
+sQ}#
+theme/theme/theme1.xml
+$O})
+Xp90
++PHI|
+9xu5
+fs+W
+VF7H
+q=. 
+8}d-
+qyI@
+j!Q_
+jyV`
+|PZ+
+O&x$
+A8>v
+;EUC
+*~P(5
+/,EE\}
+theme/theme/_rels/themeManager.xml.rels
+6?$Q
+K(M&$R(.1
+[Content_Types].xmlPK
+_rels/.relsPK
+theme/theme/themeManager.xmlPK
+theme/theme/theme1.xmlPK
+theme/theme/_rels/themeManager.xml.relsPK
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>
+(E=8(E=8
+(E=8
+7^cl
+7^cl
+i<(=Z.1
+pU1@I
+iRKBv9
+Springer Verlag
+Normal
+Microsoft Office Word
+Springer Verlag
+Title
+_PID_HLINKS
+GrammarlyDocumentId
+KSOTemplateDocerSaveRecord
+KSOProductBuildVer
+83a96739-49a5-47ba-8f4a-871f2f19eb90
+eyJoZGlkIjoiMWY1NTlmYmEwOWYyZGVjYzllNTUyMjA0NjNjNmQ3MzQiLCJ1c2VySWQiOiI1NDk3NjUwMjMwMzgifQ==
+1033-12.1.0.26880
+B4DC5FB641044AD7AA1DC2ECA32254EC_12
+Microsoft Word 97-2003 Document
+MSWordDoc
+Word.Document.8
+#(-27;@EJOTY^chmrw|
+spr_basic_bw
+Picture 1
+Normal
+Heading 1
+Heading 2
+Heading 3
+Heading 4
+Heading 5
+Heading 6
+Heading 7
+Default Paragraph Font
+Table Normal
+No List
+Balloon Text
+Body Text
+Body Text Indent
+Body Text Indent 2
+Emphasis
+FollowedHyperlink
+Footer
+Footer Char
+Header
+Header Char
+Hyperlink
+Normal (Web)
+Plain Text
+Plain Text Char
+Strong
+Table Grid
+Plain Text1
+List Paragraph
+font-claude-response-body
+is-empty
+https://www.utep.edu/aaii/people/bio/deepak-tosh.html
+mailto:dktosh@utep.edu
+https://bgu.ac.in/manage_faculty/dr-sanjay-kumar-kuanar/
+mailto:sk.kuanar@bgu.ac.in
+https://igitsarang.ac.in/facultypage/cs/150995012
+mailto:igitsethi@gmail.com
+https://www.springer.com/series/16891
+Root Entry
+Data
+1Table
+WordDocument
+SummaryInformation
+DocumentSummaryInformation
+CompObj

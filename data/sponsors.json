@@ -1,0 +1,12 @@
+[
+  { "id": "sp-1", "name": "IEEE India Council", "logo": "IEEE", "website": "https://ieee.org", "tier": "platinum" },
+  { "id": "sp-2", "name": "Springer Nature", "logo": "Springer", "website": "https://springer.com", "tier": "platinum" },
+  { "id": "sp-3", "name": "Infosys Limited", "logo": "Infosys", "website": "https://infosys.com", "tier": "gold" },
+  { "id": "sp-4", "name": "TCS", "logo": "TCS", "website": "https://tcs.com", "tier": "gold" },
+  { "id": "sp-5", "name": "Microsoft Research", "logo": "Microsoft", "website": "https://research.microsoft.com", "tier": "gold" },
+  { "id": "sp-6", "name": "IBM India", "logo": "IBM", "website": "https://ibm.com", "tier": "silver" },
+  { "id": "sp-7", "name": "Wipro", "logo": "Wipro", "website": "https://wipro.com", "tier": "silver" },
+  { "id": "sp-8", "name": "IIT Bhubaneswar", "logo": "IITBBS", "website": "https://iitbbs.ac.in", "tier": "academic" },
+  { "id": "sp-9", "name": "NIT Rourkela", "logo": "NITR", "website": "https://nitrkl.ac.in", "tier": "academic" },
+  { "id": "sp-10", "name": "NVIDIA India", "logo": "NVIDIA", "website": "https://nvidia.com", "tier": "industry" }
+]

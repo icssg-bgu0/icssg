@@ -1,0 +1,48 @@
+[
+  {
+    "id": "tier-academician",
+    "title": "Academician / Scientist",
+    "category": "Faculty & Scientists",
+    "earlyBird": { "price": 5000, "currency": "INR", "deadline": "2026-12-15" },
+    "regular": { "price": 6000, "currency": "INR" },
+    "features": ["Conference Kit", "Lunch & Refreshments", "Certificate", "Access to All Sessions", "Workshop Access", "Proceedings", "Networking Dinner"],
+    "popular": true,
+    "icon": "BookOpen"
+  },
+  {
+    "id": "tier-scholar-student",
+    "title": "Scholar / Students",
+    "category": "UG/PG/Ph.D.",
+    "earlyBird": { "price": 4000, "currency": "INR", "deadline": "2026-12-15" },
+    "regular": { "price": 5000, "currency": "INR" },
+    "features": ["Conference Kit", "Lunch & Refreshments", "Certificate", "Access to All Sessions", "Workshop Access"],
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "tier-industry",
+    "title": "Industry",
+    "category": "Corporate / Industry",
+    "earlyBird": { "price": 8000, "currency": "INR", "deadline": "2026-12-15" },
+    "regular": { "price": 10000, "currency": "INR" },
+    "features": ["Conference Kit", "Lunch & Refreshments", "Certificate", "Access to All Sessions", "Workshop Access", "Proceedings", "Networking Dinner", "Industry Expo Access"],
+    "icon": "Building2"
+  },
+  {
+    "id": "tier-listener",
+    "title": "Listeners",
+    "category": "Indian Delegates",
+    "earlyBird": { "price": 800, "currency": "INR", "deadline": "2026-12-15" },
+    "regular": { "price": 1000, "currency": "INR" },
+    "features": ["Lunch & Refreshments", "Certificate of Participation", "Access to All Sessions"],
+    "icon": "Users"
+  },
+  {
+    "id": "tier-foreign-listener",
+    "title": "Foreign Listeners",
+    "category": "International Delegates",
+    "earlyBird": { "price": 80, "currency": "USD", "deadline": "2026-12-15" },
+    "regular": { "price": 100, "currency": "USD" },
+    "features": ["Lunch & Refreshments", "Certificate of Participation", "Access to All Sessions", "Cultural Program"],
+    "icon": "Globe"
+  }
+]

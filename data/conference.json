@@ -1,0 +1,93 @@
+{
+  "name": "International Conference on Smart Systems and Sustainable Governance Powered by AI",
+  "shortName": "ICSSG-AI 2027",
+  "tagline": "Shaping the Future of Intelligent Governance and Sustainable Innovation",
+  "theme": "Convergence of AI, Smart Systems, and Sustainable Governance for a Better Tomorrow",
+  "edition": "1st Edition",
+  "year": 2027,
+  "dates": {
+    "start": "2027-03-12",
+    "end": "2027-03-13"
+  },
+  "venue": {
+    "name": "Birla Global University",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "country": "India",
+    "coordinates": { "lat": 20.2434, "lng": 85.7986 }
+  },
+  "organizer": {
+    "name": "Birla Global University",
+    "shortName": "BGU",
+    "website": "https://bgu.ac.in",
+    "logo": "/images/bgu-logo.png"
+  },
+  "about": {
+    "vision": "To establish a premier global platform that bridges the gap between AI innovation, smart system design, and sustainable governance models—fostering interdisciplinary dialogue among researchers, policymakers, and industry leaders.",
+    "mission": "ICSSG-AI 2027 aims to catalyze transformative research and collaboration by bringing together world-class minds to address critical challenges at the intersection of artificial intelligence, smart city systems, and sustainable governance frameworks.",
+    "description": "The International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027) is a landmark event designed to explore the role of artificial intelligence in driving smarter systems and sustainable governance across industries, governments, and communities. Hosted by Birla Global University in the vibrant city of Bhubaneswar, this conference will feature keynote addresses, panel discussions, paper presentations, workshops, and networking opportunities with leading researchers and practitioners from around the globe.",
+    "objectives": [
+      "Foster interdisciplinary research collaboration across AI, governance, and sustainability",
+      "Showcase state-of-the-art innovations in smart systems and AI-driven governance",
+      "Bridge the gap between academic research and real-world policy implementation",
+      "Promote ethical, human-centric, and inclusive AI development practices",
+      "Encourage early-career researchers and students to contribute to the global discourse",
+      "Build sustainable partnerships between academia, industry, and government"
+    ],
+    "expectedOutcomes": [
+      "High-impact research publications in IEEE/Springer indexed proceedings",
+      "Establishment of international research networks and collaborations",
+      "Policy recommendations for AI-powered sustainable governance",
+      "Innovation showcases and technology demonstrations",
+      "Mentorship opportunities for emerging researchers",
+      "Open-access knowledge repository for conference proceedings"
+    ]
+  },
+  "university": {
+    "name": "Birla Global University",
+    "established": 2015,
+    "location": "Bhubaneswar, Odisha, India",
+    "description": "Birla Global University (BGU) is a premier institution of higher education established by the Birla Group, one of India's most respected industrial conglomerates. Located in the temple city of Bhubaneswar, BGU is committed to delivering world-class education that blends academic rigor with industry relevance, innovation, and global perspectives.",
+    "accreditations": ["NAAC A+", "UGC Recognized", "AICTE Approved", "BCI Recognized"],
+    "rankings": [
+      "Among Top 100 Universities in India (NIRF)",
+      "Ranked in Top 50 for Management Studies",
+      "Ranked in Top 75 for Engineering"
+    ],
+    "stats": {
+      "students": 5000,
+      "faculty": 300,
+      "programs": 40,
+      "placementRate": 95,
+      "internationalCollaborations": 50,
+      "researchPapers": 2000
+    }
+  },
+  "school": {
+    "name": "School of Computer Applications & Information Technology",
+    "description": "The School of Computer Applications & Information Technology at BGU is at the forefront of computing education and research. With state-of-the-art labs, industry partnerships, and a distinguished faculty, the school prepares students for leadership roles in the global technology landscape.",
+    "programs": ["MCA", "M.Sc. (IT)", "BCA", "B.Sc. (IT)", "Ph.D. (Computer Science)"],
+    "researchAreas": [
+      "Artificial Intelligence & Machine Learning",
+      "Data Science & Big Data Analytics",
+      "Cybersecurity & Blockchain",
+      "IoT & Smart Systems",
+      "Cloud Computing",
+      "Natural Language Processing"
+    ],
+    "collaborations": [
+      "IBM Academic Initiative",
+      "AWS Academy",
+      "Microsoft Imagine Academy",
+      "Google Developer Student Clubs",
+      "TCS Academic Interface Programme"
+    ]
+  },
+  "contact": {
+    "email": "icssg-ai@bgu.ac.in",
+    "phone": "+91 674 272 5724",
+    "alternateEmail": "conference@bgu.ac.in",
+    "alternatePhone": "+91 674 272 5725",
+    "address": "Birla Global University, IDCO Plot No.2, Gothapatna, Bhubaneswar, Odisha 751029, India"
+  }
+}

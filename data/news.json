@@ -1,0 +1,7 @@
+[
+  { "id": "news-1", "title": "ICSSG-AI 2027 Official Website Launched", "content": "We are delighted to announce the launch of the official website for the International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027). Stay tuned for updates on paper submission, speakers, and registration.", "date": "2026-07-15", "category": "announcement", "featured": true },
+  { "id": "news-2", "title": "Call for Papers Now Open", "content": "We invite researchers, academicians, and industry professionals to submit original research papers across all six conference tracks. The submission deadline is September 15, 2026.", "date": "2026-07-16", "category": "announcement", "featured": true },
+  { "id": "news-3", "title": "Keynote Speakers Announced", "content": "We are honored to announce our distinguished keynote speakers from IIT Delhi, MIT Media Lab, ETH Zurich, University of Tokyo, and Infosys. Visit the Speakers section for details.", "date": "2026-08-01", "category": "update", "featured": false },
+  { "id": "news-4", "title": "Workshop Proposals Invited", "content": "Proposals for workshops, tutorials, and special sessions are now being accepted. Submit your proposal by September 30, 2026.", "date": "2026-08-15", "category": "announcement", "featured": false },
+  { "id": "news-5", "title": "Early Bird Registration Opens", "content": "Take advantage of discounted early bird registration rates. Register before December 15, 2026 to avail special pricing.", "date": "2026-10-01", "category": "update", "featured": false }
+]

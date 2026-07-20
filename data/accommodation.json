@@ -1,0 +1,8 @@
+[
+  { "id": "hotel-1", "name": "BGU Campus Guest House", "category": "campus", "distance": "On Campus", "priceRange": "₹1,500–2,500/night", "amenities": ["Wi-Fi", "AC", "Meals", "Parking", "24/7 Security"], "phone": "+91 674 272 5724" },
+  { "id": "hotel-2", "name": "Mayfair Lagoon", "category": "luxury", "distance": "12 km", "priceRange": "₹8,000–15,000/night", "amenities": ["Pool", "Spa", "Multi-cuisine Restaurant", "Business Center", "Airport Shuttle"], "website": "https://mayfairhotels.com", "phone": "+91 674 666 0101" },
+  { "id": "hotel-3", "name": "Trident Bhubaneswar", "category": "luxury", "distance": "14 km", "priceRange": "₹6,500–12,000/night", "amenities": ["Pool", "Fitness Center", "Restaurant", "Conference Rooms", "Garden"], "website": "https://tridenthotels.com" },
+  { "id": "hotel-4", "name": "Swosti Premium", "category": "premium", "distance": "10 km", "priceRange": "₹4,000–7,000/night", "amenities": ["Restaurant", "Wi-Fi", "AC", "Parking", "Room Service"] },
+  { "id": "hotel-5", "name": "Ginger Hotel", "category": "standard", "distance": "11 km", "priceRange": "₹2,500–4,000/night", "amenities": ["Wi-Fi", "AC", "Restaurant", "Parking"] },
+  { "id": "hotel-6", "name": "Hotel Presidency", "category": "budget", "distance": "13 km", "priceRange": "₹1,500–2,500/night", "amenities": ["Wi-Fi", "AC", "Room Service"] }
+]

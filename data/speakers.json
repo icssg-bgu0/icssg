@@ -1,0 +1,188 @@
+[
+  {
+    "id": "speaker-1",
+    "slug": "dr-rajesh-kumar",
+    "name": "Dr. Rajesh Kumar",
+    "title": "Distinguished Professor of AI & Machine Learning",
+    "affiliation": "Indian Institute of Technology, Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "image": "/images/speakers/speaker-1.jpg",
+    "bio": "Dr. Rajesh Kumar is a globally recognized researcher in artificial intelligence and machine learning with over 25 years of academic and industry experience. He has published more than 300 papers in top-tier journals and serves on the editorial boards of IEEE Transactions on AI and ACM Computing Surveys.",
+    "researchInterests": ["Deep Learning", "Reinforcement Learning", "AI Ethics", "Autonomous Systems"],
+    "type": "keynote",
+    "social": {
+      "googleScholar": "https://scholar.google.com/",
+      "linkedin": "https://linkedin.com/",
+      "website": "https://iitd.ac.in/"
+    },
+    "talkTitle": "The Future of Human-Centric AI: Bridging Research and Policy",
+    "talkAbstract": "This keynote explores the evolving landscape of human-centric AI, examining how responsible AI development can inform public policy and governance frameworks."
+  },
+  {
+    "id": "speaker-2",
+    "slug": "prof-sarah-chen",
+    "name": "Prof. Sarah Chen",
+    "title": "Professor of Sustainable Computing",
+    "affiliation": "MIT Media Lab",
+    "country": "United States",
+    "countryCode": "US",
+    "image": "/images/speakers/speaker-2.jpg",
+    "bio": "Prof. Sarah Chen leads the Sustainable Computing group at MIT Media Lab, focusing on the intersection of AI, sustainability, and urban governance. Her research has been featured in Nature, Science, and has received multiple NSF grants.",
+    "researchInterests": ["Sustainable AI", "Smart Cities", "Urban Computing", "Green Technology"],
+    "type": "keynote",
+    "social": {
+      "googleScholar": "https://scholar.google.com/",
+      "linkedin": "https://linkedin.com/",
+      "twitter": "https://twitter.com/"
+    },
+    "talkTitle": "AI-Driven Smart Cities: From Data to Sustainable Governance",
+    "talkAbstract": "This talk presents novel frameworks for leveraging AI in urban governance, showcasing case studies from smart city initiatives across the globe."
+  },
+  {
+    "id": "speaker-3",
+    "slug": "dr-michael-fischer",
+    "name": "Dr. Michael Fischer",
+    "title": "Director of AI Research",
+    "affiliation": "ETH Zurich",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "image": "/images/speakers/speaker-3.jpg",
+    "bio": "Dr. Michael Fischer directs the AI Research Center at ETH Zurich, focusing on trustworthy AI systems and their application in governance and healthcare. He has authored over 200 publications and holds 15 patents.",
+    "researchInterests": ["Trustworthy AI", "Explainable AI", "Healthcare AI", "Governance"],
+    "type": "keynote",
+    "social": {
+      "googleScholar": "https://scholar.google.com/",
+      "linkedin": "https://linkedin.com/",
+      "orcid": "https://orcid.org/"
+    },
+    "talkTitle": "Trustworthy AI for Governance: Challenges and Opportunities",
+    "talkAbstract": "Exploring the critical need for transparency, accountability, and fairness in AI systems deployed for public governance."
+  },
+  {
+    "id": "speaker-4",
+    "slug": "prof-aiko-yamamoto",
+    "name": "Prof. Aiko Yamamoto",
+    "title": "Professor of Data Science",
+    "affiliation": "University of Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "image": "/images/speakers/speaker-4.jpg",
+    "bio": "Prof. Aiko Yamamoto is a leading researcher in data science and big data analytics at the University of Tokyo. Her work on AI-driven disaster management systems has been widely adopted across Asia-Pacific nations.",
+    "researchInterests": ["Big Data Analytics", "Disaster Management AI", "Predictive Modeling", "Social Computing"],
+    "type": "keynote",
+    "social": {
+      "googleScholar": "https://scholar.google.com/",
+      "website": "https://u-tokyo.ac.jp/"
+    },
+    "talkTitle": "Big Data for Social Good: AI in Disaster Governance",
+    "talkAbstract": "Demonstrating how big data and AI are transforming disaster preparedness, response, and governance in vulnerable regions."
+  },
+  {
+    "id": "speaker-5",
+    "slug": "dr-priya-sharma",
+    "name": "Dr. Priya Sharma",
+    "title": "Chief AI Officer",
+    "affiliation": "Infosys Limited",
+    "country": "India",
+    "countryCode": "IN",
+    "image": "/images/speakers/speaker-5.jpg",
+    "bio": "Dr. Priya Sharma serves as the Chief AI Officer at Infosys, leading enterprise AI strategy and innovation. With a Ph.D. from Stanford and 20+ years of industry experience, she bridges the gap between AI research and real-world deployment at scale.",
+    "researchInterests": ["Enterprise AI", "AI Strategy", "Digital Transformation", "Responsible AI"],
+    "type": "keynote",
+    "social": {
+      "linkedin": "https://linkedin.com/",
+      "twitter": "https://twitter.com/"
+    },
+    "talkTitle": "Scaling AI Responsibly: Lessons from Industry",
+    "talkAbstract": "Insights from deploying AI at enterprise scale while maintaining ethical standards and governance frameworks."
+  },
+  {
+    "id": "speaker-6",
+    "slug": "prof-james-okonkwo",
+    "name": "Prof. James Okonkwo",
+    "title": "Professor of Smart Governance",
+    "affiliation": "University of Oxford",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "image": "/images/speakers/speaker-6.jpg",
+    "bio": "Prof. James Okonkwo is a renowned scholar in smart governance and digital public administration at the University of Oxford. His research focuses on how AI can improve government services and democratic processes across developing nations.",
+    "researchInterests": ["Smart Governance", "Digital Democracy", "Public Administration", "AI Policy"],
+    "type": "invited",
+    "social": {
+      "googleScholar": "https://scholar.google.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "talkTitle": "Digital Democracy: AI in Public Service Delivery"
+  },
+  {
+    "id": "speaker-7",
+    "slug": "dr-li-wei",
+    "name": "Dr. Li Wei",
+    "title": "Senior Researcher",
+    "affiliation": "Tsinghua University",
+    "country": "China",
+    "countryCode": "CN",
+    "image": "/images/speakers/speaker-7.jpg",
+    "bio": "Dr. Li Wei is a senior researcher at Tsinghua University specializing in IoT-based smart systems and edge computing. His work has led to significant advancements in real-time data processing for smart infrastructure.",
+    "researchInterests": ["IoT", "Edge Computing", "Smart Infrastructure", "Real-time Systems"],
+    "type": "invited",
+    "social": {
+      "googleScholar": "https://scholar.google.com/"
+    },
+    "talkTitle": "Edge AI for Smart Infrastructure: Design Patterns and Challenges"
+  },
+  {
+    "id": "speaker-8",
+    "slug": "dr-anna-kowalski",
+    "name": "Dr. Anna Kowalski",
+    "title": "Associate Professor of Cybersecurity",
+    "affiliation": "Technical University of Munich",
+    "country": "Germany",
+    "countryCode": "DE",
+    "image": "/images/speakers/speaker-8.jpg",
+    "bio": "Dr. Anna Kowalski is an associate professor at TU Munich working on AI-driven cybersecurity solutions. Her research on adversarial machine learning and AI safety has been published in top security conferences including IEEE S&P and USENIX Security.",
+    "researchInterests": ["AI Security", "Adversarial ML", "Privacy-Preserving AI", "Blockchain"],
+    "type": "invited",
+    "social": {
+      "googleScholar": "https://scholar.google.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "talkTitle": "Securing AI Systems: From Adversarial Attacks to Robust Governance"
+  },
+  {
+    "id": "speaker-9",
+    "slug": "prof-maria-santos",
+    "name": "Prof. Maria Santos",
+    "title": "Professor of Environmental AI",
+    "affiliation": "University of São Paulo",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "image": "/images/speakers/speaker-9.jpg",
+    "bio": "Prof. Maria Santos pioneers the application of AI in environmental monitoring and climate governance. Her work with satellite imagery and deep learning for deforestation detection has been instrumental in Brazilian environmental policy.",
+    "researchInterests": ["Environmental AI", "Climate Computing", "Remote Sensing", "Conservation Tech"],
+    "type": "invited",
+    "social": {
+      "googleScholar": "https://scholar.google.com/"
+    },
+    "talkTitle": "AI for Environmental Governance: Monitoring, Prediction, and Policy"
+  },
+  {
+    "id": "speaker-10",
+    "slug": "dr-ahmed-hassan",
+    "name": "Dr. Ahmed Hassan",
+    "title": "Research Director",
+    "affiliation": "KAUST",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "image": "/images/speakers/speaker-10.jpg",
+    "bio": "Dr. Ahmed Hassan leads AI research initiatives at King Abdullah University of Science and Technology (KAUST). His expertise spans NLP, knowledge graphs, and AI applications in governance and education.",
+    "researchInterests": ["NLP", "Knowledge Graphs", "AI in Education", "Computational Linguistics"],
+    "type": "invited",
+    "social": {
+      "googleScholar": "https://scholar.google.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "talkTitle": "Knowledge Graphs for Intelligent Governance Systems"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "track-1",
+    "slug": "ai-machine-learning",
+    "title": "Artificial Intelligence & Machine Learning",
+    "shortTitle": "AI & ML",
+    "description": "Advancing the frontiers of artificial intelligence and machine learning through innovative algorithms, architectures, and applications that drive intelligent systems.",
+    "icon": "Brain",
+    "color": "#4F8EF7",
+    "topics": [
+      "Deep Learning Architectures",
+      "Reinforcement Learning",
+      "Transfer Learning & Few-Shot Learning",
+      "Generative AI & Foundation Models",
+      "Explainable AI (XAI)",
+      "Federated Learning",
+      "Neural Architecture Search",
+      "AI for Scientific Discovery",
+      "Multimodal AI Systems",
+      "AI Ethics & Fairness"
+    ],
+    "chairs": ["Dr. Rajesh Kumar", "Prof. Sarah Chen"]
+  },
+  {
+    "id": "track-2",
+    "slug": "big-data-analytics",
+    "title": "Big Data & Advanced Analytics",
+    "shortTitle": "Big Data",
+    "description": "Exploring large-scale data processing, analytics methodologies, and data-driven decision-making frameworks for smart governance and sustainable development.",
+    "icon": "Database",
+    "color": "#00E5FF",
+    "topics": [
+      "Large-Scale Data Processing",
+      "Real-Time Analytics",
+      "Predictive Analytics",
+      "Data Visualization",
+      "Data Governance & Quality",
+      "Knowledge Graphs",
+      "Graph Analytics",
+      "Spatial & Temporal Data Mining",
+      "Data-Driven Policy Making",
+      "Open Data & Transparency"
+    ],
+    "chairs": ["Prof. Aiko Yamamoto"]
+  },
+  {
+    "id": "track-3",
+    "slug": "smart-systems-iot",
+    "title": "Smart Systems & Internet of Things",
+    "shortTitle": "Smart Systems & IoT",
+    "description": "Designing and deploying intelligent connected systems that leverage IoT, edge computing, and cyber-physical systems for smarter cities and industries.",
+    "icon": "Cpu",
+    "color": "#7C4DFF",
+    "topics": [
+      "IoT Architecture & Protocols",
+      "Edge & Fog Computing",
+      "Smart City Infrastructure",
+      "Cyber-Physical Systems",
+      "Digital Twins",
+      "Sensor Networks",
+      "Industrial IoT (IIoT)",
+      "Smart Grid & Energy Systems",
+      "Connected Healthcare",
+      "Autonomous Systems"
+    ],
+    "chairs": ["Dr. Li Wei"]
+  },
+  {
+    "id": "track-4",
+    "slug": "sustainable-governance",
+    "title": "Sustainable Governance & Policy",
+    "shortTitle": "Governance",
+    "description": "Investigating how AI and technology can transform governance models, public policy, and institutional frameworks for sustainability and inclusivity.",
+    "icon": "Shield",
+    "color": "#00C853",
+    "topics": [
+      "AI in Public Administration",
+      "Digital Democracy & E-Governance",
+      "Policy Analytics & Simulation",
+      "Regulatory Technology (RegTech)",
+      "Sustainable Development Goals (SDGs)",
+      "Climate Governance",
+      "AI Ethics & Regulation",
+      "Inclusive Governance Models",
+      "Smart Justice Systems",
+      "Public Health Governance"
+    ],
+    "chairs": ["Prof. James Okonkwo"]
+  },
+  {
+    "id": "track-5",
+    "slug": "cybersecurity-privacy",
+    "title": "Cybersecurity, Privacy & Trust",
+    "shortTitle": "Security & Privacy",
+    "description": "Addressing security challenges in AI-driven systems, ensuring privacy-preserving computation, and building trustworthy digital infrastructure.",
+    "icon": "Lock",
+    "color": "#FF5252",
+    "topics": [
+      "AI-Driven Cybersecurity",
+      "Privacy-Preserving Machine Learning",
+      "Adversarial Machine Learning",
+      "Blockchain for Governance",
+      "Zero Trust Architecture",
+      "Quantum-Safe Cryptography",
+      "Identity Management",
+      "Secure Multi-Party Computation",
+      "Threat Intelligence",
+      "Digital Forensics"
+    ],
+    "chairs": ["Dr. Anna Kowalski"]
+  },
+  {
+    "id": "track-6",
+    "slug": "human-centric-ai",
+    "title": "Human-Centric AI & Society",
+    "shortTitle": "Human-Centric AI",
+    "description": "Centering human values, accessibility, and social impact in AI system design, deployment, and governance for an equitable digital future.",
+    "icon": "Heart",
+    "color": "#FF9800",
+    "topics": [
+      "Human-Computer Interaction",
+      "Accessible AI Systems",
+      "AI for Social Good",
+      "Bias Detection & Mitigation",
+      "AI & Education",
+      "AI & Healthcare Equity",
+      "Conversational AI & Chatbots",
+      "Emotion & Sentiment Analysis",
+      "AI Literacy & Public Engagement",
+      "Responsible Innovation"
+    ],
+    "chairs": ["Prof. Maria Santos", "Dr. Ahmed Hassan"]
+  }
+]
