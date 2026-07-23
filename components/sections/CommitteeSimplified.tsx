@@ -21,7 +21,7 @@ const committeeData: Category[] = [
     title: "Program Chair",
     members: [
       { name: "Prof. Srinivas Sethi", desc: "Professor, Indira Gandhi Institute of Technology, Sarang, Odisha, India" },
-      { name: "Prof. Mufti Mahmud", desc: "Professor, King Fahd University of Petroleum and Minerals, Saudi Arabia, NTU, UK" },
+      { name: "Professor Mufti Mahmud", desc: "Information and Computer Science Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia" },
       { name: "Dr. Sanjay Kumar Kuanar", desc: "Dean, School of Engineering & Technology, Birla Global University, Bhubaneswar, Odisha, India" }
     ]
   },
@@ -44,7 +44,7 @@ const committeeData: Category[] = [
   {
     title: "Publicity Chairs",
     members: [
-      { name: "Prof. Archana Chaudhary", desc: "School of Management, BGU Bhubaneswar" },
+      { name: "Prof. Archana Choudhury", desc: "School of Management, BGU Bhubaneswar" },
       { name: "Prof. Ashima Rout", desc: "IGIT Sarang" },
       { name: "Dr. Rajendra Prasad Nayak", desc: "GCE, Kalahandi" },
       { name: "Dr. Satvik Vats", desc: "Madan Mohan Malaviya University of Technology, Gorakhpur" },
