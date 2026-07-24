@@ -225,7 +225,7 @@ export function AboutConference() {
                   Publication Opportunities
                 </h3>
                 <p className="text-white/70 leading-relaxed text-pretty text-sm md:text-base">
-                  Selected, peer-reviewed papers presented at the 1st International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027) will be considered for publication in the conference proceedings to be published in the <strong className="text-accent-blue font-semibold">Artificial Intelligence-enhanced Software and Systems Engineering (AI-SSE)</strong> book series by <strong className="text-white font-semibold">Springer</strong> <span className="text-accent-emerald font-semibold italic">(Approval Pending)</span>.
+                  Selected, peer-reviewed papers presented at the 1st International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027) will be considered for publication in the conference proceedings to be published in the <strong className="text-accent-blue font-semibold">Artificial Intelligence-enhanced Software and Systems Engineering (AI-SSE)</strong> book series by <strong className="text-white font-semibold">Springer Publication House</strong> <span className="text-accent-emerald font-semibold italic">(Approval Pending)</span>.
                 </p>
               </div>
             </div>

@@ -35,7 +35,7 @@ export function HeroSimplified() {
           </div>
 
           <h1 className="text-3xl md:text-5xl font-bold text-[#337ab7] mb-6 leading-tight">
-            International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027)
+            1st International Conference on Smart Systems and Sustainable Governance Powered by AI (ICSSG-AI 2027)
           </h1>
           
           <div className="flex justify-center items-center gap-2 mb-12 text-xl md:text-2xl font-bold text-gray-700">

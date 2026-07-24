@@ -17,11 +17,11 @@ export function DatesSimplified() {
               <span className="font-bold text-[#337ab7]">To be notified</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
-              <span className="font-medium">Tentative Notification of Acceptance:</span>
-              <span className="font-bold text-[#337ab7]">20.12.2026</span>
+              <span className="font-medium">Notification of Acceptance:</span>
+              <span className="font-bold text-[#337ab7]">To be notified</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
-              <span className="font-medium">Tentative Submission and Registration Deadline:</span>
+              <span className="font-medium">Submission and Registration Deadline:</span>
               <span className="font-bold text-[#337ab7]">To be notified</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pt-2">
