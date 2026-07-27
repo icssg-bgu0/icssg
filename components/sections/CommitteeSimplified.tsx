@@ -21,8 +21,8 @@ const committeeData: Category[] = [
     title: "Program Chair",
     members: [
       { name: "Prof. Srinivas Sethi", desc: "Professor, Indira Gandhi Institute of Technology, Sarang, Odisha, India" },
-      { name: "Professor Mufti Mahmud", desc: "Information and Computer Science Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia" },
-      { name: "Dr. Sanjay Kumar Kuanar", desc: "Dean, School of Engineering & Technology, Birla Global University, Bhubaneswar, Odisha, India" }
+      { name: "Dr. Sanjay Kumar Kuanar", desc: "Dean, School of Engineering & Technology, Birla Global University, Bhubaneswar, Odisha, India" },
+      { name: "Professor Mufti Mahmud", desc: "Information and Computer Science Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia" }
     ]
   },
   {

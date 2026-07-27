@@ -9,20 +9,16 @@ export function DatesSimplified() {
         <div className="max-w-2xl mx-auto pmec-card bg-white">
           <ul className="space-y-4 text-gray-700">
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
-              <span className="font-medium">Call for Papers open:</span>
-              <span className="font-bold text-[#337ab7]">To be notified</span>
-            </li>
-            <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
               <span className="font-medium">Call for Papers Close:</span>
-              <span className="font-bold text-[#337ab7]">To be notified</span>
+              <span className="font-bold text-[#337ab7]">02.11.2026</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
               <span className="font-medium">Notification of Acceptance:</span>
-              <span className="font-bold text-[#337ab7]">20.12.2026</span>
+              <span className="font-bold text-[#337ab7]">09.01.2027</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
               <span className="font-medium">Registration and Submission of Revised Paper Deadline:</span>
-              <span className="font-bold text-[#337ab7]">14.01.2027</span>
+              <span className="font-bold text-[#337ab7]">13.02.2027</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pt-2">
               <span className="font-medium">Conference Dates:</span>
