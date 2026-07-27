@@ -9,9 +9,8 @@ import img1 from "@/01.jpg";
 import img2 from "@/03.jpg";
 import img5 from "@/16.jpg";
 import newImg1 from "@/images (12).jfif";
-import newImg3 from "@/bgunight (1).jpg";
 
-const images = [img1, img2, img5, newImg1, newImg3];
+const images = [img1, img2, img5, newImg1];
 
 export function HeroSimplified() {
   const [currentIdx, setCurrentIdx] = useState(0);
@@ -29,8 +28,8 @@ export function HeroSimplified() {
         <div className="max-w-5xl mx-auto text-center">
           
           <div className="flex flex-wrap justify-center items-center mb-10">
-            <div className="relative h-24 w-auto max-w-[200px]">
-              <Image src={bguLogo} alt="BGU Logo" height={96} className="object-contain" />
+            <div className="relative h-32 md:h-40 w-auto flex items-center justify-center">
+              <Image src={bguLogo} alt="BGU Logo" height={160} className="object-contain" priority />
             </div>
           </div>
 

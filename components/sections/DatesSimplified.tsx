@@ -18,11 +18,11 @@ export function DatesSimplified() {
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
               <span className="font-medium">Notification of Acceptance:</span>
-              <span className="font-bold text-[#337ab7]">To be notified</span>
+              <span className="font-bold text-[#337ab7]">20.12.2026</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
-              <span className="font-medium">Submission and Registration Deadline:</span>
-              <span className="font-bold text-[#337ab7]">To be notified</span>
+              <span className="font-medium">Registration and Submission of Revised Paper Deadline:</span>
+              <span className="font-bold text-[#337ab7]">14.01.2027</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pt-2">
               <span className="font-medium">Conference Dates:</span>
