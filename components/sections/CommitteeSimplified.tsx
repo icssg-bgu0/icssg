@@ -100,6 +100,11 @@ const committeeData: Category[] = [
   {
     title: "Organizing Committee",
     members: [
+      { name: "Dr. Indrajeet Kumar", desc: "School of Engineering and Technology, BGU Bhubaneswar" },
+      { name: "Dr. Bandita Sahu", desc: "School of Applied Science & School of Engineering & Technology, BGU Bhubaneswar" },
+      { name: "Dr. Manaswini Jena", desc: "School of Engineering & Technology, BGU Bhubaneswar" },
+      { name: "Dr. Alok Kumar Pani", desc: "School of Engineering & Technology, BGU, Bhubaneswar" },
+      { name: "Dr. Bichitrananda Behera", desc: "School of Engineering & Technology, BGU, Bhubaneswar" },
       { name: "Prof. Parameswar Nayak", desc: "Dean, School of Management, BGU Bhubaneswar" },
       { name: "Prof. Pradipta Kumar Sanyal", desc: "Dean, School of Commerce, BGU Bhubaneswar" },
       { name: "Prof. Sukanta Kumar Nanda", desc: "Dean, School of Law, BGU Bhubaneswar" },
@@ -111,11 +116,9 @@ const committeeData: Category[] = [
       { name: "Dr. Manidatta Ray", desc: "School of Management, BGU Bhubaneswar" },
       { name: "Dr. Mitashree Tripathy", desc: "School of Law, BGU Bhubaneswar" },
       { name: "Dr. Radha Krishna Mishra", desc: "School of Commerce, BGU Bhubaneswar" },
-      { name: "Dr. Arjuna Kumara Maharana", desc: "School of Commerce, BGU Bhubaneswar" },
       { name: "Dr. Abhijith P S", desc: "School of Commerce, BGU Bhubaneswar" },
       { name: "Dr. Sree Pavani Vanteddu", desc: "School of Management, BGU Bhubaneswar" },
       { name: "Dr. Sruthi Rajan", desc: "School of Communication, BGU Bhubaneswar" },
-      { name: "Dr. Tasneem Ahmad", desc: "School of Management, BGU Bhubaneswar" },
       { name: "Ms. Anwesha Padhi", desc: "School of Communication, BGU Bhubaneswar" }
     ]
   },
