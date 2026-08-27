@@ -17,9 +17,7 @@ export function CallForPapersSimplified() {
             <li>Papers not conforming to the publisher’s guidelines will be rejected.</li>
             <li>Papers will be evaluated based on originality and technical depth.</li>
             <li>Acceptance decisions will be communicated via email.</li>
-            <li>Camera-ready papers must strictly follow reviewer comments. No addition, removal, or modification of author information will be permitted at the camera-ready stage.</li>
-            <li>A Paper Presentation Certificate will be awarded in each session. The best paper in each session will be recognized.</li>
-            <li>Some authors may be invited to serve as reviewers for other submissions, provided they meet the reviewer eligibility criteria and have no conflict of interest with those submissions.</li>
+            <li>The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</li>
           </ul>
 
           <div className="bg-blue-50 p-4 rounded-md border-l-4 border-[#337ab7] mb-8 space-y-2">
