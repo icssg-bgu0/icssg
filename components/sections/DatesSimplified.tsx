@@ -4,12 +4,12 @@ export function DatesSimplified() {
   return (
     <section id="dates" className="py-16 bg-gray-50 border-t border-b border-gray-200">
       <div className="container-custom">
-        <h2 className="section-title text-center mb-12">Tentative Important Dates</h2>
+        <h2 className="section-title text-center mb-12">Important Dates</h2>
         
         <div className="max-w-2xl mx-auto pmec-card bg-white">
           <ul className="space-y-4 text-gray-700">
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
-              <span className="font-medium">Call for Papers Close:</span>
+              <span className="font-medium">Submission Deadline:</span>
               <span className="font-bold text-[#337ab7]">02.11.2026</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
