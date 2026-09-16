@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import bguLogo from "@/bgu-logo.png";
+import springerLogo from "@/springer-logo.png";
 
 // Import images from root
 import img1 from "@/01.jpg";
@@ -27,9 +28,14 @@ export function HeroSimplified() {
       <div className="container-custom">
         <div className="max-w-5xl mx-auto text-center">
           
-          <div className="flex flex-wrap justify-center items-center mb-10">
-            <div className="relative h-32 md:h-40 w-auto flex items-center justify-center">
-              <Image src={bguLogo} alt="BGU Logo" height={160} className="object-contain" priority />
+          <div className="mb-10 flex justify-center">
+            <div className="flex w-full max-w-xl items-center justify-center gap-3 rounded-xl border border-gray-200 bg-white px-3 py-4 shadow-sm sm:gap-10 sm:px-8">
+              <div className="hero-logo w-[46%] max-w-[225px]">
+                <Image src={bguLogo} alt="Birla Global University logo" className="h-auto w-full object-contain" priority />
+              </div>
+              <div className="hero-logo hero-logo--delayed w-[46%] max-w-[230px]">
+                <Image src={springerLogo} alt="Springer logo" className="h-auto w-full object-contain" priority />
+              </div>
             </div>
           </div>
 
