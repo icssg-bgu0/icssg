@@ -8,9 +8,9 @@ import bguLogo from "@/bgu-logo.png";
 import img1 from "@/01.jpg";
 import img2 from "@/03.jpg";
 import img5 from "@/16.jpg";
-import newImg1 from "@/images (12).jfif";
+import img4 from "@/conference-image-4.jpg";
 
-const images = [img1, img2, img5, newImg1];
+const images = [img1, img2, img5, img4];
 
 export function HeroSimplified() {
   const [currentIdx, setCurrentIdx] = useState(0);
