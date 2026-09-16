@@ -11,7 +11,6 @@ export function CallForPapersSimplified() {
           <h3 className="text-xl font-bold text-[#337ab7] mb-4 border-b pb-2">Guidelines to Follow for Submission</h3>
           <ul className="list-disc pl-5 space-y-2 mb-8">
             <li>All manuscripts must adhere to the standard Springer conference template (template available at <a href="https://www.springernature.com/gp/authors/publish-a-book/step-by-step-conference-proceedings" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Template Link</a>) and be formatted according to Springer style. Full papers are limited to a maximum of 15 pages, including references, using this template.</li>
-            <li>Author information must be excluded from the submitted manuscript to ensure a DOUBLE-BLIND review process; however, author details must be provided in the CMT submission form.</li>
             <li>Submissions are accepted exclusively via the Microsoft CMT portal. At this stage, the submission file must be in PDF format either from LaTeX or Word</li>
             <li>The similarity index must be below 15%. AI-generated content is not allowed. All references must be cited within the text, and unnecessary self-citations must be avoided. A minimum of five keywords must be included in the manuscript.</li>
             <li>Papers not conforming to the publisher’s guidelines will be rejected.</li>
@@ -22,7 +21,7 @@ export function CallForPapersSimplified() {
 
           <div className="bg-blue-50 p-4 rounded-md border-l-4 border-[#337ab7] mb-8 space-y-2">
             <p className="font-medium text-gray-800">
-              CMT Paper Submission Link: <span className="font-bold text-[#337ab7]">To be Updated Soon</span>
+              CMT Paper Submission Link: <a href="https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICSSGAI2027%2FSubmission%2FIndex" target="_blank" rel="noopener noreferrer" className="font-bold text-[#337ab7] hover:underline">Submit Paper</a>
             </p>
           </div>
 
