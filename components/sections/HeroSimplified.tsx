@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import bguLogo from "@/bgu-logo.png";
 import springerLogo from "@/springer-logo.png";
+import { RegistrationCountdown } from "@/components/hero/RegistrationCountdown";
 
 // Import images from root
 import img1 from "@/01.jpg";
@@ -47,6 +48,8 @@ export function HeroSimplified() {
             <span className="text-[#337ab7]">📅</span> 11th to 13th March 2027
           </div>
           
+          <RegistrationCountdown />
+
           {/* Picture Carousel */}
           <div className="relative w-full max-w-4xl mx-auto h-[400px] md:h-[500px] overflow-hidden rounded-xl shadow-lg border border-gray-200 bg-white">
             {images.map((img, idx) => (

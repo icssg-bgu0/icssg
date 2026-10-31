@@ -17,7 +17,7 @@ export function DatesSimplified() {
               <span className="font-bold text-[#337ab7]">09.01.2027</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
-              <span className="font-medium">Registration and Submission of Revised Paper Deadline:</span>
+              <span className="font-medium">Submission of Revised Paper Deadline:</span>
               <span className="font-bold text-[#337ab7]">13.02.2027</span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pt-2">
