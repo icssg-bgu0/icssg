@@ -2,6 +2,7 @@ import Image from "next/image";
 import bguLogo from "@/bgu-logo.png";
 import springerLogo from "@/springer-logo.png";
 import { RegistrationCountdown } from "@/components/hero/RegistrationCountdown";
+import { PhotoCarousel } from "@/components/hero/PhotoCarousel";
 
 export function HeroSimplified() {
   return (
@@ -29,6 +30,7 @@ export function HeroSimplified() {
           </div>
           
           <RegistrationCountdown />
+          <PhotoCarousel />
         </div>
       </div>
     </section>
