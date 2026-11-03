@@ -1,29 +1,9 @@
-"use client";
-
-import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import bguLogo from "@/bgu-logo.png";
 import springerLogo from "@/springer-logo.png";
 import { RegistrationCountdown } from "@/components/hero/RegistrationCountdown";
 
-// Import images from root
-import img1 from "@/01.jpg";
-import img2 from "@/03.jpg";
-import img5 from "@/16.jpg";
-import img4 from "@/conference-image-4.jpg";
-
-const images = [img1, img2, img5, img4];
-
 export function HeroSimplified() {
-  const [currentIdx, setCurrentIdx] = useState(0);
-
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setCurrentIdx((prev) => (prev + 1) % images.length);
-    }, 4000);
-    return () => clearInterval(timer);
-  }, []);
-
   return (
     <section id="home" className="pt-32 pb-16 bg-gray-50 border-b border-gray-200">
       <div className="container-custom">
@@ -49,41 +29,6 @@ export function HeroSimplified() {
           </div>
           
           <RegistrationCountdown />
-
-          {/* Picture Carousel */}
-          <div className="relative w-full max-w-4xl mx-auto h-[400px] md:h-[500px] overflow-hidden rounded-xl shadow-lg border border-gray-200 bg-white">
-            {images.map((img, idx) => (
-              <div
-                key={idx}
-                className={`absolute inset-0 transition-opacity duration-1000 ease-in-out ${
-                  idx === currentIdx ? "opacity-100 z-10" : "opacity-0 z-0"
-                }`}
-              >
-                <Image
-                  src={img}
-                  alt={`Conference Image ${idx + 1}`}
-                  fill
-                  className="object-cover"
-                  priority={idx === 0}
-                />
-              </div>
-            ))}
-            
-            {/* Navigation Dots */}
-            <div className="absolute bottom-4 left-0 right-0 z-20 flex justify-center gap-2">
-              {images.map((_, idx) => (
-                <button
-                  key={idx}
-                  onClick={() => setCurrentIdx(idx)}
-                  className={`w-3 h-3 rounded-full transition-all ${
-                    idx === currentIdx ? "bg-white scale-125 shadow-sm" : "bg-white/50 hover:bg-white/80"
-                  }`}
-                  aria-label={`Go to slide ${idx + 1}`}
-                />
-              ))}
-            </div>
-          </div>
-
         </div>
       </div>
     </section>
