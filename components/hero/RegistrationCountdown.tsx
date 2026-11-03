@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { getCountdown } from "@/lib/utils";
-import { REGISTRATION_DEADLINE, REGISTRATION_DEADLINE_LABEL } from "@/lib/registrationDeadline";
+import { PREVIOUS_SUBMISSION_DEADLINE_LABEL, REGISTRATION_DEADLINE, REGISTRATION_DEADLINE_LABEL } from "@/lib/registrationDeadline";
 import styles from "./RegistrationCountdown.module.css";
 
 type Countdown = ReturnType<typeof getCountdown>;
@@ -54,7 +54,8 @@ export function RegistrationCountdown() {
       <p className={styles.eyebrow}>Make it official</p>
       <h2 id="registration-countdown-title" className={styles.title}>Submission Deadline</h2>
       <p className={styles.date}>
-        <time dateTime={REGISTRATION_DEADLINE}>{REGISTRATION_DEADLINE_LABEL}</time>
+        <del className={styles.oldDate}>{PREVIOUS_SUBMISSION_DEADLINE_LABEL}</del>
+        <span className={styles.extendedDate}>Extended to <time dateTime={REGISTRATION_DEADLINE}>{REGISTRATION_DEADLINE_LABEL}</time></span>
         <span className={styles.dateDivider}> · </span>11:59 p.m. IST
       </p>
       <div className={styles.clock} role="timer" aria-live="off" aria-label="Time remaining to submit your paper">

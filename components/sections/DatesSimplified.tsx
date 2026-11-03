@@ -10,7 +10,10 @@ export function DatesSimplified() {
           <ul className="space-y-4 text-gray-700">
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
               <span className="font-medium">Submission Deadline:</span>
-              <span className="font-bold text-[#337ab7]">02.11.2026</span>
+              <span className="font-bold text-[#337ab7]">
+                <del className="mr-2 font-normal text-gray-500">02.11.2026</del>
+                Extended to 17.11.2026
+              </span>
             </li>
             <li className="flex flex-col sm:flex-row sm:justify-between pb-3 border-b border-gray-100">
               <span className="font-medium">Notification of Acceptance:</span>

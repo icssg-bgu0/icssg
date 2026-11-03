@@ -20,6 +20,8 @@
 
 .title { color: #193e60; font-size: 24px; font-weight: 700; }
 .date { margin-top: 5px; color: #52677a; font-size: 13px; }
+.oldDate { margin-right: 8px; color: #7b8792; }
+.extendedDate { color: #1b5c8e; font-weight: 700; }
 .dateDivider { color: #337ab7; }
 
 .clock {
